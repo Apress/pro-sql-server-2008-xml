@@ -1,0 +1,1 @@
+bcp AdventureWorks.Sales.CustomerGeography in c:\AWCustGeo.txt -f c:\AWCustGeo.fmt -T

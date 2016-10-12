@@ -1,0 +1,3508 @@
+<?xml version="1.0"?>
+<ROOT xmlns:sql="urn:schemas-microsoft-com:xml-sql">
+	<CustomerCoordinates CustomerID="1">
+		<Resolution>best</Resolution>
+		<Latitude>47.611744</Latitude>
+		<Longitude>-122.347698</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="2">
+		<Resolution>best</Resolution>
+		<Latitude>47.475590</Latitude>
+		<Longitude>-122.204569</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="3">
+		<Resolution>best</Resolution>
+		<Latitude>32.935160</Latitude>
+		<Longitude>-97.017039</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="4">
+		<Resolution>good</Resolution>
+		<Latitude>30.302679</Latitude>
+		<Longitude>-97.761980</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="5">
+		<Resolution>best</Resolution>
+		<Latitude>37.484880</Latitude>
+		<Longitude>-121.926669</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="6">
+		<Resolution>best</Resolution>
+		<Latitude>34.229270</Latitude>
+		<Longitude>-118.995709</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="7">
+		<Resolution>medium</Resolution>
+		<Latitude>40.759525</Latitude>
+		<Longitude>-111.888219</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="8">
+		<Resolution>best</Resolution>
+		<Latitude>25.791350</Latitude>
+		<Longitude>-80.319219</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="9">
+		<Resolution>best</Resolution>
+		<Latitude>35.320080</Latitude>
+		<Longitude>-89.936659</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="10">
+		<Resolution>medium</Resolution>
+		<Latitude>49.255051</Latitude>
+		<Longitude>-122.936600</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="11">
+		<Resolution>medium</Resolution>
+		<Latitude>43.711281</Latitude>
+		<Longitude>-79.298599</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="12">
+		<Resolution>medium</Resolution>
+		<Latitude>43.711281</Latitude>
+		<Longitude>-79.298599</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="13">
+		<Resolution>medium</Resolution>
+		<Latitude>48.681610</Latitude>
+		<Longitude>2.169475</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="14">
+		<Resolution>medium</Resolution>
+		<Latitude>50.112251</Latitude>
+		<Longitude>8.684300</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="15">
+		<Resolution>medium</Resolution>
+		<Latitude>-33.843071</Latitude>
+		<Longitude>151.208008</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="16">
+		<Resolution>medium</Resolution>
+		<Latitude>51.502571</Latitude>
+		<Longitude>-0.104530</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="17">
+		<Resolution>medium</Resolution>
+		<Latitude>36.980525</Latitude>
+		<Longitude>-76.429459</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="18">
+		<Resolution>best</Resolution>
+		<Latitude>42.812480</Latitude>
+		<Longitude>-85.996043</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="19">
+		<Resolution>medium</Resolution>
+		<Latitude>47.761370</Latitude>
+		<Longitude>-122.205624</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="20">
+		<Resolution>best</Resolution>
+		<Latitude>47.395220</Latitude>
+		<Longitude>-122.271159</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="21">
+		<Resolution>best</Resolution>
+		<Latitude>32.935160</Latitude>
+		<Longitude>-97.017039</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="22">
+		<Resolution>best</Resolution>
+		<Latitude>42.533580</Latitude>
+		<Longitude>-96.491629</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="23">
+		<Resolution>best</Resolution>
+		<Latitude>37.754880</Latitude>
+		<Longitude>-121.908259</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="24">
+		<Resolution>best</Resolution>
+		<Latitude>37.604210</Latitude>
+		<Longitude>-122.086999</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="25">
+		<Resolution>medium</Resolution>
+		<Latitude>33.919925</Latitude>
+		<Longitude>-118.415964</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="26">
+		<Resolution>best</Resolution>
+		<Latitude>25.792250</Latitude>
+		<Longitude>-80.312879</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="27">
+		<Resolution>best</Resolution>
+		<Latitude>35.339980</Latitude>
+		<Longitude>-89.871519</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="28">
+		<Resolution>medium</Resolution>
+		<Latitude>43.711121</Latitude>
+		<Longitude>-79.298531</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="29">
+		<Resolution>lowest</Resolution>
+		<Latitude>45.590447</Latitude>
+		<Longitude>-77.165301</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="30">
+		<Resolution>medium</Resolution>
+		<Latitude>46.806881</Latitude>
+		<Longitude>-71.218910</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="31">
+		<Resolution>medium</Resolution>
+		<Latitude>48.830421</Latitude>
+		<Longitude>2.365620</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="32">
+		<Resolution>medium</Resolution>
+		<Latitude>48.777222</Latitude>
+		<Longitude>9.180730</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="33">
+		<Resolution>medium</Resolution>
+		<Latitude>-33.843071</Latitude>
+		<Longitude>151.208008</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="34">
+		<Resolution>medium</Resolution>
+		<Latitude>53.424858</Latitude>
+		<Longitude>-2.528240</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="35">
+		<Resolution>best</Resolution>
+		<Latitude>41.497510</Latitude>
+		<Longitude>-71.548569</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="36">
+		<Resolution>best</Resolution>
+		<Latitude>41.731710</Latitude>
+		<Longitude>-86.295799</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="37">
+		<Resolution>good</Resolution>
+		<Latitude>47.159264</Latitude>
+		<Longitude>-122.303978</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="38">
+		<Resolution>medium</Resolution>
+		<Latitude>45.783975</Latitude>
+		<Longitude>-108.505794</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="39">
+		<Resolution>best</Resolution>
+		<Latitude>44.897240</Latitude>
+		<Longitude>-93.329009</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="40">
+		<Resolution>best</Resolution>
+		<Latitude>27.611215</Latitude>
+		<Longitude>-99.483279</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="41">
+		<Resolution>best</Resolution>
+		<Latitude>37.413700</Latitude>
+		<Longitude>-121.883019</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="42">
+		<Resolution>best</Resolution>
+		<Latitude>33.607840</Latitude>
+		<Longitude>-117.878849</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="43">
+		<Resolution>good</Resolution>
+		<Latitude>40.712669</Latitude>
+		<Longitude>-111.892563</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="44">
+		<Resolution>medium</Resolution>
+		<Latitude>34.729121</Latitude>
+		<Longitude>-86.584961</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="45">
+		<Resolution>medium</Resolution>
+		<Latitude>36.022399</Latitude>
+		<Longitude>-86.583594</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="46">
+		<Resolution>medium</Resolution>
+		<Latitude>51.049320</Latitude>
+		<Longitude>-114.058884</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="47">
+		<Resolution>medium</Resolution>
+		<Latitude>43.711121</Latitude>
+		<Longitude>-79.298531</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="48">
+		<Resolution>medium</Resolution>
+		<Latitude>45.553860</Latitude>
+		<Longitude>-73.585411</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="49">
+		<Resolution>medium</Resolution>
+		<Latitude>50.745232</Latitude>
+		<Longitude>3.114740</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="50">
+		<Resolution>medium</Resolution>
+		<Latitude>52.473461</Latitude>
+		<Longitude>13.309850</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="51">
+		<Resolution>medium</Resolution>
+		<Latitude>-31.963640</Latitude>
+		<Longitude>115.934341</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="52">
+		<Resolution>medium</Resolution>
+		<Latitude>51.712002</Latitude>
+		<Longitude>-1.970310</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="53">
+		<Resolution>best</Resolution>
+		<Latitude>42.161381</Latitude>
+		<Longitude>-71.202865</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="54">
+		<Resolution>medium</Resolution>
+		<Latitude>40.792751</Latitude>
+		<Longitude>-73.416299</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="55">
+		<Resolution>best</Resolution>
+		<Latitude>42.378230</Latitude>
+		<Longitude>-122.884509</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="56">
+		<Resolution>good</Resolution>
+		<Latitude>45.528710</Latitude>
+		<Longitude>-122.572109</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="57">
+		<Resolution>best</Resolution>
+		<Latitude>41.907460</Latitude>
+		<Longitude>-88.241859</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="58">
+		<Resolution>best</Resolution>
+		<Latitude>41.880583</Latitude>
+		<Longitude>-87.629819</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="59">
+		<Resolution>best</Resolution>
+		<Latitude>36.351000</Latitude>
+		<Longitude>-119.381089</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="60">
+		<Resolution>best</Resolution>
+		<Latitude>37.607880</Latitude>
+		<Longitude>-122.052559</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="61">
+		<Resolution>medium</Resolution>
+		<Latitude>33.870325</Latitude>
+		<Longitude>-117.929104</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="62">
+		<Resolution>medium</Resolution>
+		<Latitude>36.167762</Latitude>
+		<Longitude>-86.778366</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="63">
+		<Resolution>best</Resolution>
+		<Latitude>36.066530</Latitude>
+		<Longitude>-79.819819</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="64">
+		<Resolution>medium</Resolution>
+		<Latitude>43.711121</Latitude>
+		<Longitude>-79.298531</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="65">
+		<Resolution>lowest</Resolution>
+		<Latitude>43.742549</Latitude>
+		<Longitude>-79.585695</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="66">
+		<Resolution>medium</Resolution>
+		<Latitude>49.232609</Latitude>
+		<Longitude>-123.019783</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="67">
+		<Resolution>medium</Resolution>
+		<Latitude>48.751091</Latitude>
+		<Longitude>2.254440</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="68">
+		<Resolution>medium</Resolution>
+		<Latitude>50.128319</Latitude>
+		<Longitude>8.836060</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="69">
+		<Resolution>medium</Resolution>
+		<Latitude>-33.843071</Latitude>
+		<Longitude>151.208008</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="70">
+		<Resolution>medium</Resolution>
+		<Latitude>51.506325</Latitude>
+		<Longitude>-0.127144</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="71">
+		<Resolution>best</Resolution>
+		<Latitude>41.697540</Latitude>
+		<Longitude>-72.869479</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="72">
+		<Resolution>best</Resolution>
+		<Latitude>42.783818</Latitude>
+		<Longitude>-71.508003</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="73">
+		<Resolution>medium</Resolution>
+		<Latitude>47.493270</Latitude>
+		<Longitude>-121.782669</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="74">
+		<Resolution>good</Resolution>
+		<Latitude>45.446150</Latitude>
+		<Longitude>-122.777349</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="75">
+		<Resolution>medium</Resolution>
+		<Latitude>32.913865</Latitude>
+		<Longitude>-96.636554</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="76">
+		<Resolution>best</Resolution>
+		<Latitude>41.991720</Latitude>
+		<Longitude>-87.979649</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="77">
+		<Resolution>best</Resolution>
+		<Latitude>32.552840</Latitude>
+		<Longitude>-116.935939</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="78">
+		<Resolution>medium</Resolution>
+		<Latitude>34.064570</Latitude>
+		<Longitude>-117.647809</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="79">
+		<Resolution>medium</Resolution>
+		<Latitude>40.423280</Latitude>
+		<Longitude>-104.694464</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="80">
+		<Resolution>medium</Resolution>
+		<Latitude>26.168707</Latitude>
+		<Longitude>-80.294942</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="81">
+		<Resolution>medium</Resolution>
+		<Latitude>25.728985</Latitude>
+		<Longitude>-80.237419</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="82">
+		<Resolution>medium</Resolution>
+		<Latitude>49.311668</Latitude>
+		<Longitude>-123.075661</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="83">
+		<Resolution>medium</Resolution>
+		<Latitude>45.421280</Latitude>
+		<Longitude>-75.427757</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="84">
+		<Resolution>medium</Resolution>
+		<Latitude>43.724621</Latitude>
+		<Longitude>-79.550583</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="85">
+		<Resolution>medium</Resolution>
+		<Latitude>48.897591</Latitude>
+		<Longitude>2.257380</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="86">
+		<Resolution>medium</Resolution>
+		<Latitude>51.458019</Latitude>
+		<Longitude>7.014750</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="87">
+		<Resolution>medium</Resolution>
+		<Latitude>-33.814602</Latitude>
+		<Longitude>151.168716</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="88">
+		<Resolution>medium</Resolution>
+		<Latitude>52.047501</Latitude>
+		<Longitude>-0.828760</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="89">
+		<Resolution>best</Resolution>
+		<Latitude>41.293940</Latitude>
+		<Longitude>-82.192599</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="90">
+		<Resolution>good</Resolution>
+		<Latitude>38.883607</Latitude>
+		<Longitude>-77.439755</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="91">
+		<Resolution>best</Resolution>
+		<Latitude>45.535430</Latitude>
+		<Longitude>-122.862089</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="92">
+		<Resolution>best</Resolution>
+		<Latitude>47.756520</Latitude>
+		<Longitude>-122.152839</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="93">
+		<Resolution>good</Resolution>
+		<Latitude>30.489580</Latitude>
+		<Longitude>-97.607374</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="94">
+		<Resolution>best</Resolution>
+		<Latitude>32.976580</Latitude>
+		<Longitude>-97.251189</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="95">
+		<Resolution>best</Resolution>
+		<Latitude>37.682763</Latitude>
+		<Longitude>-121.901135</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="96">
+		<Resolution>best</Resolution>
+		<Latitude>33.722870</Latitude>
+		<Longitude>-117.839639</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="97">
+		<Resolution>best</Resolution>
+		<Latitude>37.518845</Latitude>
+		<Longitude>-122.010528</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="98">
+		<Resolution>best</Resolution>
+		<Latitude>25.790099</Latitude>
+		<Longitude>-80.334261</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="99">
+		<Resolution>best</Resolution>
+		<Latitude>27.338495</Latitude>
+		<Longitude>-82.380232</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="100">
+		<Resolution>medium</Resolution>
+		<Latitude>43.843601</Latitude>
+		<Longitude>-79.304550</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="101">
+		<Resolution>medium</Resolution>
+		<Latitude>43.711281</Latitude>
+		<Longitude>-79.298599</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="102">
+		<Resolution>medium</Resolution>
+		<Latitude>43.711281</Latitude>
+		<Longitude>-79.298599</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="103">
+		<Resolution>medium</Resolution>
+		<Latitude>48.900570</Latitude>
+		<Longitude>2.408660</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="104">
+		<Resolution>medium</Resolution>
+		<Latitude>51.225060</Latitude>
+		<Longitude>6.775680</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="105">
+		<Resolution>medium</Resolution>
+		<Latitude>-33.897572</Latitude>
+		<Longitude>151.195572</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="106">
+		<Resolution>medium</Resolution>
+		<Latitude>51.427441</Latitude>
+		<Longitude>-0.850460</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="107">
+		<Resolution>best</Resolution>
+		<Latitude>42.176845</Latitude>
+		<Longitude>-71.028317</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="108">
+		<Resolution>best</Resolution>
+		<Latitude>43.081906</Latitude>
+		<Longitude>-70.754350</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="109">
+		<Resolution>medium</Resolution>
+		<Latitude>47.530095</Latitude>
+		<Longitude>-122.033799</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="110">
+		<Resolution>medium</Resolution>
+		<Latitude>43.492000</Latitude>
+		<Longitude>-112.041994</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="111">
+		<Resolution>best</Resolution>
+		<Latitude>42.073410</Latitude>
+		<Longitude>-88.299429</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="112">
+		<Resolution>medium</Resolution>
+		<Latitude>32.778105</Latitude>
+		<Longitude>-96.795614</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="113">
+		<Resolution>best</Resolution>
+		<Latitude>34.040790</Latitude>
+		<Longitude>-117.506959</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="114">
+		<Resolution>best</Resolution>
+		<Latitude>37.791633</Latitude>
+		<Longitude>-122.396141</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="115">
+		<Resolution>medium</Resolution>
+		<Latitude>39.541000</Latitude>
+		<Longitude>-119.749194</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="116">
+		<Resolution>best</Resolution>
+		<Latitude>33.781740</Latitude>
+		<Longitude>-84.363509</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="117">
+		<Resolution>best</Resolution>
+		<Latitude>34.027510</Latitude>
+		<Longitude>-84.066369</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="118">
+		<Resolution>medium</Resolution>
+		<Latitude>43.711281</Latitude>
+		<Longitude>-79.298599</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="119">
+		<Resolution>lowest</Resolution>
+		<Latitude>45.424513</Latitude>
+		<Longitude>-71.876907</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="120">
+		<Resolution>medium</Resolution>
+		<Latitude>45.552959</Latitude>
+		<Longitude>-73.582451</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="121">
+		<Resolution>medium</Resolution>
+		<Latitude>47.809820</Latitude>
+		<Longitude>1.081308</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="122">
+		<Resolution>medium</Resolution>
+		<Latitude>52.523781</Latitude>
+		<Longitude>13.411900</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="123">
+		<Resolution>medium</Resolution>
+		<Latitude>-33.796768</Latitude>
+		<Longitude>151.124344</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="124">
+		<Resolution>lowest</Resolution>
+		<Latitude>53.800008</Latitude>
+		<Longitude>-1.751235</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="125">
+		<Resolution>best</Resolution>
+		<Latitude>41.053360</Latitude>
+		<Longitude>-73.532569</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="126">
+		<Resolution>medium</Resolution>
+		<Latitude>42.099510</Latitude>
+		<Longitude>-76.046149</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="127">
+		<Resolution>best</Resolution>
+		<Latitude>47.672690</Latitude>
+		<Longitude>-122.146649</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="128">
+		<Resolution>best</Resolution>
+		<Latitude>47.438500</Latitude>
+		<Longitude>-120.357079</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="129">
+		<Resolution>best</Resolution>
+		<Latitude>41.963390</Latitude>
+		<Longitude>-87.978819</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="130">
+		<Resolution>medium</Resolution>
+		<Latitude>32.778105</Latitude>
+		<Longitude>-96.795614</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="131">
+		<Resolution>medium</Resolution>
+		<Latitude>33.919925</Latitude>
+		<Longitude>-118.415964</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="132">
+		<Resolution>best</Resolution>
+		<Latitude>39.856231</Latitude>
+		<Longitude>-105.059530</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="133">
+		<Resolution>best</Resolution>
+		<Latitude>37.684980</Latitude>
+		<Longitude>-121.050769</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="134">
+		<Resolution>medium</Resolution>
+		<Latitude>35.342140</Latitude>
+		<Longitude>-89.902484</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="135">
+		<Resolution>medium</Resolution>
+		<Latitude>35.149657</Latitude>
+		<Longitude>-90.048913</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="136">
+		<Resolution>medium</Resolution>
+		<Latitude>51.049320</Latitude>
+		<Longitude>-114.058884</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="137">
+		<Resolution>medium</Resolution>
+		<Latitude>51.049320</Latitude>
+		<Longitude>-114.058884</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="138">
+		<Resolution>medium</Resolution>
+		<Latitude>49.311668</Latitude>
+		<Longitude>-123.075661</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="139">
+		<Resolution>medium</Resolution>
+		<Latitude>48.921719</Latitude>
+		<Longitude>2.246820</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="140">
+		<Resolution>medium</Resolution>
+		<Latitude>50.732632</Latitude>
+		<Longitude>7.096440</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="141">
+		<Resolution>medium</Resolution>
+		<Latitude>-33.843071</Latitude>
+		<Longitude>151.208008</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="142">
+		<Resolution>medium</Resolution>
+		<Latitude>53.432129</Latitude>
+		<Longitude>-2.973100</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="143">
+		<Resolution>good</Resolution>
+		<Latitude>41.278529</Latitude>
+		<Longitude>-72.863783</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="144">
+		<Resolution>best</Resolution>
+		<Latitude>40.734430</Latitude>
+		<Longitude>-73.989899</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="145">
+		<Resolution>medium</Resolution>
+		<Latitude>47.678560</Latitude>
+		<Longitude>-122.130994</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="146">
+		<Resolution>best</Resolution>
+		<Latitude>47.658409</Latitude>
+		<Longitude>-122.328501</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="147">
+		<Resolution>best</Resolution>
+		<Latitude>41.755540</Latitude>
+		<Longitude>-87.682999</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="148">
+		<Resolution>best</Resolution>
+		<Latitude>41.928770</Latitude>
+		<Longitude>-88.101039</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="149">
+		<Resolution>best</Resolution>
+		<Latitude>43.039101</Latitude>
+		<Longitude>-72.552627</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="150">
+		<Resolution>best</Resolution>
+		<Latitude>37.985310</Latitude>
+		<Longitude>-121.310259</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="151">
+		<Resolution>best</Resolution>
+		<Latitude>33.987960</Latitude>
+		<Longitude>-118.398759</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="152">
+		<Resolution>good</Resolution>
+		<Latitude>33.799736</Latitude>
+		<Longitude>-84.253476</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="153">
+		<Resolution>best</Resolution>
+		<Latitude>27.987120</Latitude>
+		<Longitude>-82.793329</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="154">
+		<Resolution>medium</Resolution>
+		<Latitude>49.311668</Latitude>
+		<Longitude>-123.075661</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="155">
+		<Resolution>medium</Resolution>
+		<Latitude>43.711281</Latitude>
+		<Longitude>-79.298599</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="156">
+		<Resolution>medium</Resolution>
+		<Latitude>45.553860</Latitude>
+		<Longitude>-73.585411</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="157">
+		<Resolution>medium</Resolution>
+		<Latitude>48.887081</Latitude>
+		<Longitude>2.387850</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="158">
+		<Resolution>medium</Resolution>
+		<Latitude>50.732632</Latitude>
+		<Longitude>7.096440</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="159">
+		<Resolution>medium</Resolution>
+		<Latitude>-33.796768</Latitude>
+		<Longitude>151.124344</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="160">
+		<Resolution>medium</Resolution>
+		<Latitude>52.062462</Latitude>
+		<Longitude>-1.340960</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="161">
+		<Resolution>medium</Resolution>
+		<Latitude>41.075525</Latitude>
+		<Longitude>-85.099064</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="162">
+		<Resolution>best</Resolution>
+		<Latitude>41.720191</Latitude>
+		<Longitude>-71.486642</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="163">
+		<Resolution>best</Resolution>
+		<Latitude>42.220718</Latitude>
+		<Longitude>-121.776012</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="164">
+		<Resolution>best</Resolution>
+		<Latitude>45.533368</Latitude>
+		<Longitude>-122.397754</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="165">
+		<Resolution>best</Resolution>
+		<Latitude>32.805708</Latitude>
+		<Longitude>-96.837428</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="166">
+		<Resolution>best</Resolution>
+		<Latitude>32.863600</Latitude>
+		<Longitude>-96.594429</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="167">
+		<Resolution>best</Resolution>
+		<Latitude>33.882360</Latitude>
+		<Longitude>-118.264499</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="168">
+		<Resolution>best</Resolution>
+		<Latitude>33.954070</Latitude>
+		<Longitude>-118.163799</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="169">
+		<Resolution>best</Resolution>
+		<Latitude>39.609470</Latitude>
+		<Longitude>-119.207789</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="170">
+		<Resolution>best</Resolution>
+		<Latitude>35.069871</Latitude>
+		<Longitude>-89.846228</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="171">
+		<Resolution>best</Resolution>
+		<Latitude>33.384220</Latitude>
+		<Longitude>-84.172019</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="172">
+		<Resolution>good</Resolution>
+		<Latitude>49.303089</Latitude>
+		<Longitude>-123.031487</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="173">
+		<Resolution>medium</Resolution>
+		<Latitude>49.311668</Latitude>
+		<Longitude>-123.075661</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="174">
+		<Resolution>medium</Resolution>
+		<Latitude>49.196671</Latitude>
+		<Longitude>-122.843811</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="175">
+		<Resolution>medium</Resolution>
+		<Latitude>47.913940</Latitude>
+		<Longitude>1.909860</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="176">
+		<Resolution>medium</Resolution>
+		<Latitude>51.964710</Latitude>
+		<Longitude>7.628500</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="177">
+		<Resolution>medium</Resolution>
+		<Latitude>-27.462030</Latitude>
+		<Longitude>153.060364</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="178">
+		<Resolution>lowest</Resolution>
+		<Latitude>53.800008</Latitude>
+		<Longitude>-1.751235</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="179">
+		<Resolution>best</Resolution>
+		<Latitude>41.674250</Latitude>
+		<Longitude>-81.322559</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="180">
+		<Resolution>best</Resolution>
+		<Latitude>42.664140</Latitude>
+		<Longitude>-83.332819</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="181">
+		<Resolution>best</Resolution>
+		<Latitude>45.426240</Latitude>
+		<Longitude>-122.485719</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="182">
+		<Resolution>best</Resolution>
+		<Latitude>45.461500</Latitude>
+		<Longitude>-122.639029</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="183">
+		<Resolution>best</Resolution>
+		<Latitude>41.882684</Latitude>
+		<Longitude>-87.627720</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="184">
+		<Resolution>best</Resolution>
+		<Latitude>32.990880</Latitude>
+		<Longitude>-96.942429</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="185">
+		<Resolution>best</Resolution>
+		<Latitude>37.376360</Latitude>
+		<Longitude>-121.848909</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="186">
+		<Resolution>best</Resolution>
+		<Latitude>35.638430</Latitude>
+		<Longitude>-106.016479</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="187">
+		<Resolution>best</Resolution>
+		<Latitude>33.858470</Latitude>
+		<Longitude>-118.082129</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="188">
+		<Resolution>good</Resolution>
+		<Latitude>25.738827</Latitude>
+		<Longitude>-80.240723</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="189">
+		<Resolution>best</Resolution>
+		<Latitude>30.676250</Latitude>
+		<Longitude>-88.124069</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="190">
+		<Resolution>medium</Resolution>
+		<Latitude>51.049320</Latitude>
+		<Longitude>-114.058884</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="191">
+		<Resolution>medium</Resolution>
+		<Latitude>43.711281</Latitude>
+		<Longitude>-79.298599</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="192">
+		<Resolution>medium</Resolution>
+		<Latitude>43.711281</Latitude>
+		<Longitude>-79.298599</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="193">
+		<Resolution>medium</Resolution>
+		<Latitude>43.611568</Latitude>
+		<Longitude>1.324650</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="194">
+		<Resolution>medium</Resolution>
+		<Latitude>48.139099</Latitude>
+		<Longitude>11.580270</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="195">
+		<Resolution>medium</Resolution>
+		<Latitude>-33.838261</Latitude>
+		<Longitude>151.206482</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="196">
+		<Resolution>medium</Resolution>
+		<Latitude>52.047501</Latitude>
+		<Longitude>-0.828760</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="197">
+		<Resolution>best</Resolution>
+		<Latitude>42.491800</Latitude>
+		<Longitude>-83.482209</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="198">
+		<Resolution>best</Resolution>
+		<Latitude>42.461900</Latitude>
+		<Longitude>-83.278429</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="199">
+		<Resolution>best</Resolution>
+		<Latitude>47.487470</Latitude>
+		<Longitude>-122.190779</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="200">
+		<Resolution>best</Resolution>
+		<Latitude>47.555650</Latitude>
+		<Longitude>-122.557989</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="201">
+		<Resolution>best</Resolution>
+		<Latitude>32.776630</Latitude>
+		<Longitude>-96.829239</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="202">
+		<Resolution>best</Resolution>
+		<Latitude>33.077717</Latitude>
+		<Longitude>-96.818825</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="203">
+		<Resolution>best</Resolution>
+		<Latitude>34.140146</Latitude>
+		<Longitude>-118.008346</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="204">
+		<Resolution>best</Resolution>
+		<Latitude>33.854280</Latitude>
+		<Longitude>-118.354049</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="205">
+		<Resolution>best</Resolution>
+		<Latitude>33.317450</Latitude>
+		<Longitude>-111.968638</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="206">
+		<Resolution>best</Resolution>
+		<Latitude>36.091139</Latitude>
+		<Longitude>-80.309396</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="207">
+		<Resolution>best</Resolution>
+		<Latitude>35.970006</Latitude>
+		<Longitude>-77.811492</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="208">
+		<Resolution>medium</Resolution>
+		<Latitude>43.711281</Latitude>
+		<Longitude>-79.298599</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="209">
+		<Resolution>medium</Resolution>
+		<Latitude>43.820000</Latitude>
+		<Longitude>-79.273567</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="210">
+		<Resolution>medium</Resolution>
+		<Latitude>43.710751</Latitude>
+		<Longitude>-79.300941</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="211">
+		<Resolution>medium</Resolution>
+		<Latitude>48.625599</Latitude>
+		<Longitude>2.548730</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="212">
+		<Resolution>medium</Resolution>
+		<Latitude>48.139099</Latitude>
+		<Longitude>11.580270</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="213">
+		<Resolution>medium</Resolution>
+		<Latitude>-37.833881</Latitude>
+		<Longitude>144.955856</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="214">
+		<Resolution>medium</Resolution>
+		<Latitude>54.048630</Latitude>
+		<Longitude>-2.800510</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="215">
+		<Resolution>best</Resolution>
+		<Latitude>41.123210</Latitude>
+		<Longitude>-73.314409</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="216">
+		<Resolution>best</Resolution>
+		<Latitude>41.546300</Latitude>
+		<Longitude>-73.026369</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="217">
+		<Resolution>medium</Resolution>
+		<Latitude>47.212495</Latitude>
+		<Longitude>-123.105624</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="218">
+		<Resolution>best</Resolution>
+		<Latitude>46.188579</Latitude>
+		<Longitude>-123.094706</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="219">
+		<Resolution>best</Resolution>
+		<Latitude>41.877857</Latitude>
+		<Longitude>-87.643723</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="220">
+		<Resolution>best</Resolution>
+		<Latitude>38.684640</Latitude>
+		<Longitude>-90.392149</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="221">
+		<Resolution>best</Resolution>
+		<Latitude>32.313520</Latitude>
+		<Longitude>-106.748629</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="222">
+		<Resolution>best</Resolution>
+		<Latitude>39.671361</Latitude>
+		<Longitude>-104.940538</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="223">
+		<Resolution>best</Resolution>
+		<Latitude>39.566060</Latitude>
+		<Longitude>-104.904409</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="224">
+		<Resolution>best</Resolution>
+		<Latitude>34.844034</Latitude>
+		<Longitude>-87.656800</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="225">
+		<Resolution>best</Resolution>
+		<Latitude>37.329300</Latitude>
+		<Longitude>-85.350579</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="226">
+		<Resolution>best</Resolution>
+		<Latitude>40.678680</Latitude>
+		<Longitude>-73.917290</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="227">
+		<Resolution>medium</Resolution>
+		<Latitude>43.710751</Latitude>
+		<Longitude>-79.300941</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="228">
+		<Resolution>medium</Resolution>
+		<Latitude>45.421280</Latitude>
+		<Longitude>-75.427757</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="229">
+		<Resolution>medium</Resolution>
+		<Latitude>48.921719</Latitude>
+		<Longitude>2.246820</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="230">
+		<Resolution>medium</Resolution>
+		<Latitude>50.140942</Latitude>
+		<Longitude>8.504550</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="231">
+		<Resolution>medium</Resolution>
+		<Latitude>-33.843071</Latitude>
+		<Longitude>151.208008</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="232">
+		<Resolution>medium</Resolution>
+		<Latitude>51.280239</Latitude>
+		<Longitude>-1.066940</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="233">
+		<Resolution>best</Resolution>
+		<Latitude>43.097510</Latitude>
+		<Longitude>-75.302949</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="234">
+		<Resolution>best</Resolution>
+		<Latitude>39.909780</Latitude>
+		<Longitude>-86.071979</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="235">
+		<Resolution>medium</Resolution>
+		<Latitude>47.825320</Latitude>
+		<Longitude>-122.292409</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="236">
+		<Resolution>medium</Resolution>
+		<Latitude>47.603470</Latitude>
+		<Longitude>-122.329729</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="237">
+		<Resolution>medium</Resolution>
+		<Latitude>41.884150</Latitude>
+		<Longitude>-87.632409</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="238">
+		<Resolution>best</Resolution>
+		<Latitude>38.541120</Latitude>
+		<Longitude>-92.109769</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="239">
+		<Resolution>best</Resolution>
+		<Latitude>34.016659</Latitude>
+		<Longitude>-118.495134</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="240">
+		<Resolution>medium</Resolution>
+		<Latitude>33.787865</Latitude>
+		<Longitude>-117.850399</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="241">
+		<Resolution>medium</Resolution>
+		<Latitude>34.201965</Latitude>
+		<Longitude>-118.601564</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="242">
+		<Resolution>best</Resolution>
+		<Latitude>25.797383</Latitude>
+		<Longitude>-80.368865</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="243">
+		<Resolution>medium</Resolution>
+		<Latitude>25.645450</Latitude>
+		<Longitude>-80.333499</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="244">
+		<Resolution>medium</Resolution>
+		<Latitude>45.554989</Latitude>
+		<Longitude>-73.589233</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="245">
+		<Resolution>medium</Resolution>
+		<Latitude>45.473549</Latitude>
+		<Longitude>-73.454239</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="246">
+		<Resolution>medium</Resolution>
+		<Latitude>45.553860</Latitude>
+		<Longitude>-73.585411</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="247">
+		<Resolution>medium</Resolution>
+		<Latitude>48.740269</Latitude>
+		<Longitude>2.403050</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="248">
+		<Resolution>medium</Resolution>
+		<Latitude>49.300831</Latitude>
+		<Longitude>7.066020</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="249">
+		<Resolution>medium</Resolution>
+		<Latitude>-38.106258</Latitude>
+		<Longitude>145.142151</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="250">
+		<Resolution>medium</Resolution>
+		<Latitude>51.476929</Latitude>
+		<Longitude>-0.204980</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="251">
+		<Resolution>best</Resolution>
+		<Latitude>41.335770</Latitude>
+		<Longitude>-72.935159</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="252">
+		<Resolution>best</Resolution>
+		<Latitude>41.237930</Latitude>
+		<Longitude>-73.021999</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="253">
+		<Resolution>best</Resolution>
+		<Latitude>47.147470</Latitude>
+		<Longitude>-122.292949</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="254">
+		<Resolution>best</Resolution>
+		<Latitude>47.660660</Latitude>
+		<Longitude>-122.153399</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="255">
+		<Resolution>best</Resolution>
+		<Latitude>29.710170</Latitude>
+		<Longitude>-95.331469</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="256">
+		<Resolution>best</Resolution>
+		<Latitude>32.792220</Latitude>
+		<Longitude>-96.796679</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="257">
+		<Resolution>medium</Resolution>
+		<Latitude>33.123160</Latitude>
+		<Longitude>-117.082169</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="258">
+		<Resolution>medium</Resolution>
+		<Latitude>38.579060</Latitude>
+		<Longitude>-121.490999</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="259">
+		<Resolution>good</Resolution>
+		<Latitude>34.290043</Latitude>
+		<Longitude>-118.738634</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="260">
+		<Resolution>best</Resolution>
+		<Latitude>25.749049</Latitude>
+		<Longitude>-80.271677</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="261">
+		<Resolution>best</Resolution>
+		<Latitude>28.663623</Latitude>
+		<Longitude>-81.367632</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="262">
+		<Resolution>medium</Resolution>
+		<Latitude>51.049320</Latitude>
+		<Longitude>-114.058884</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="263">
+		<Resolution>medium</Resolution>
+		<Latitude>49.255001</Latitude>
+		<Longitude>-123.000160</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="264">
+		<Resolution>medium</Resolution>
+		<Latitude>43.710751</Latitude>
+		<Longitude>-79.300941</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="265">
+		<Resolution>medium</Resolution>
+		<Latitude>48.857079</Latitude>
+		<Longitude>2.256570</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="266">
+		<Resolution>medium</Resolution>
+		<Latitude>51.089649</Latitude>
+		<Longitude>6.585600</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="267">
+		<Resolution>medium</Resolution>
+		<Latitude>-37.814560</Latitude>
+		<Longitude>144.970276</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="268">
+		<Resolution>lowest</Resolution>
+		<Latitude>51.603192</Latitude>
+		<Longitude>-0.705431</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="269">
+		<Resolution>best</Resolution>
+		<Latitude>41.588000</Latitude>
+		<Longitude>-81.501829</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="270">
+		<Resolution>best</Resolution>
+		<Latitude>41.425840</Latitude>
+		<Longitude>-81.522849</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="271">
+		<Resolution>best</Resolution>
+		<Latitude>45.578058</Latitude>
+		<Longitude>-122.334381</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="272">
+		<Resolution>best</Resolution>
+		<Latitude>47.238890</Latitude>
+		<Longitude>-122.435151</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="273">
+		<Resolution>medium</Resolution>
+		<Latitude>30.509040</Latitude>
+		<Longitude>-97.677224</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="274">
+		<Resolution>best</Resolution>
+		<Latitude>46.804250</Latitude>
+		<Longitude>-92.153459</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="275">
+		<Resolution>good</Resolution>
+		<Latitude>33.839498</Latitude>
+		<Longitude>-118.142901</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="276">
+		<Resolution>medium</Resolution>
+		<Latitude>34.200340</Latitude>
+		<Longitude>-119.180439</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="277">
+		<Resolution>medium</Resolution>
+		<Latitude>34.093700</Latitude>
+		<Longitude>-118.127269</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="278">
+		<Resolution>best</Resolution>
+		<Latitude>28.443430</Latitude>
+		<Longitude>-81.400599</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="279">
+		<Resolution>best</Resolution>
+		<Latitude>35.058020</Latitude>
+		<Longitude>-89.865479</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="280">
+		<Resolution>medium</Resolution>
+		<Latitude>44.369678</Latitude>
+		<Longitude>-79.690887</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="281">
+		<Resolution>medium</Resolution>
+		<Latitude>45.553860</Latitude>
+		<Longitude>-73.585411</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="282">
+		<Resolution>medium</Resolution>
+		<Latitude>46.761349</Latitude>
+		<Longitude>-71.299530</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="283">
+		<Resolution>medium</Resolution>
+		<Latitude>48.791451</Latitude>
+		<Longitude>2.664720</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="284">
+		<Resolution>medium</Resolution>
+		<Latitude>52.473461</Latitude>
+		<Longitude>13.309850</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="285">
+		<Resolution>medium</Resolution>
+		<Latitude>-33.796768</Latitude>
+		<Longitude>151.124344</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="286">
+		<Resolution>medium</Resolution>
+		<Latitude>51.397129</Latitude>
+		<Longitude>-1.074790</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="287">
+		<Resolution>best</Resolution>
+		<Latitude>42.518050</Latitude>
+		<Longitude>-83.106339</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="288">
+		<Resolution>best</Resolution>
+		<Latitude>42.336620</Latitude>
+		<Longitude>-83.346159</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="289">
+		<Resolution>best</Resolution>
+		<Latitude>47.483995</Latitude>
+		<Longitude>-122.217476</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="290">
+		<Resolution>best</Resolution>
+		<Latitude>48.744819</Latitude>
+		<Longitude>-122.465357</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="291">
+		<Resolution>best</Resolution>
+		<Latitude>29.805700</Latitude>
+		<Longitude>-94.977779</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="292">
+		<Resolution>good</Resolution>
+		<Latitude>29.735565</Latitude>
+		<Longitude>-95.644099</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="293">
+		<Resolution>best</Resolution>
+		<Latitude>37.798870</Latitude>
+		<Longitude>-97.325829</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="294">
+		<Resolution>good</Resolution>
+		<Latitude>33.158741</Latitude>
+		<Longitude>-117.242409</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="295">
+		<Resolution>medium</Resolution>
+		<Latitude>34.200340</Latitude>
+		<Longitude>-119.180439</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="296">
+		<Resolution>best</Resolution>
+		<Latitude>33.532031</Latitude>
+		<Longitude>-86.719674</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="297">
+		<Resolution>best</Resolution>
+		<Latitude>38.252580</Latitude>
+		<Longitude>-85.651369</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="298">
+		<Resolution>good</Resolution>
+		<Latitude>29.385651</Latitude>
+		<Longitude>-98.525909</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="299">
+		<Resolution>medium</Resolution>
+		<Latitude>45.249119</Latitude>
+		<Longitude>-65.995941</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="300">
+		<Resolution>medium</Resolution>
+		<Latitude>45.421280</Latitude>
+		<Longitude>-75.427757</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="301">
+		<Resolution>medium</Resolution>
+		<Latitude>48.887081</Latitude>
+		<Longitude>2.387850</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="302">
+		<Resolution>medium</Resolution>
+		<Latitude>50.100990</Latitude>
+		<Longitude>8.774430</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="303">
+		<Resolution>medium</Resolution>
+		<Latitude>-33.838261</Latitude>
+		<Longitude>151.206482</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="304">
+		<Resolution>good</Resolution>
+		<Latitude>51.647743</Latitude>
+		<Longitude>-1.266010</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="305">
+		<Resolution>best</Resolution>
+		<Latitude>41.665870</Latitude>
+		<Longitude>-86.894049</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="306">
+		<Resolution>best</Resolution>
+		<Latitude>42.199460</Latitude>
+		<Longitude>-83.180469</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="307">
+		<Resolution>best</Resolution>
+		<Latitude>47.234176</Latitude>
+		<Longitude>-122.294193</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="308">
+		<Resolution>best</Resolution>
+		<Latitude>47.923720</Latitude>
+		<Longitude>-122.226429</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="309">
+		<Resolution>best</Resolution>
+		<Latitude>29.791882</Latitude>
+		<Longitude>-95.372236</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="310">
+		<Resolution>best</Resolution>
+		<Latitude>40.739578</Latitude>
+		<Longitude>-89.594323</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="311">
+		<Resolution>good</Resolution>
+		<Latitude>34.156182</Latitude>
+		<Longitude>-117.660946</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="312">
+		<Resolution>good</Resolution>
+		<Latitude>33.984546</Latitude>
+		<Longitude>-118.393034</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="313">
+		<Resolution>good</Resolution>
+		<Latitude>32.807025</Latitude>
+		<Longitude>-116.967399</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="314">
+		<Resolution>best</Resolution>
+		<Latitude>34.315560</Latitude>
+		<Longitude>-88.701449</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="315">
+		<Resolution>medium</Resolution>
+		<Latitude>28.357095</Latitude>
+		<Longitude>-80.685989</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="316">
+		<Resolution>medium</Resolution>
+		<Latitude>43.584900</Latitude>
+		<Longitude>-79.588150</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="317">
+		<Resolution>medium</Resolution>
+		<Latitude>49.260921</Latitude>
+		<Longitude>-122.913788</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="318">
+		<Resolution>medium</Resolution>
+		<Latitude>48.416489</Latitude>
+		<Longitude>-123.368294</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="319">
+		<Resolution>medium</Resolution>
+		<Latitude>48.907318</Latitude>
+		<Longitude>2.443140</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="320">
+		<Resolution>medium</Resolution>
+		<Latitude>50.112251</Latitude>
+		<Longitude>8.684300</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="321">
+		<Resolution>medium</Resolution>
+		<Latitude>-33.957550</Latitude>
+		<Longitude>151.230850</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="322">
+		<Resolution>medium</Resolution>
+		<Latitude>52.042389</Latitude>
+		<Longitude>-0.795180</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="323">
+		<Resolution>medium</Resolution>
+		<Latitude>42.331685</Latitude>
+		<Longitude>-83.047779</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="324">
+		<Resolution>medium</Resolution>
+		<Latitude>43.035323</Latitude>
+		<Longitude>-76.061696</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="325">
+		<Resolution>best</Resolution>
+		<Latitude>47.791490</Latitude>
+		<Longitude>-122.243849</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="326">
+		<Resolution>best</Resolution>
+		<Latitude>47.357781</Latitude>
+		<Longitude>-122.300131</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="327">
+		<Resolution>best</Resolution>
+		<Latitude>38.645266</Latitude>
+		<Longitude>-90.405268</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="328">
+		<Resolution>best</Resolution>
+		<Latitude>29.456480</Latitude>
+		<Longitude>-98.507879</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="329">
+		<Resolution>good</Resolution>
+		<Latitude>33.934271</Latitude>
+		<Longitude>-118.120255</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="330">
+		<Resolution>best</Resolution>
+		<Latitude>36.328060</Latitude>
+		<Longitude>-119.671051</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="331">
+		<Resolution>good</Resolution>
+		<Latitude>34.068626</Latitude>
+		<Longitude>-117.557260</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="332">
+		<Resolution>best</Resolution>
+		<Latitude>32.381420</Latitude>
+		<Longitude>-86.271469</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="333">
+		<Resolution>medium</Resolution>
+		<Latitude>35.169419</Latitude>
+		<Longitude>-85.181419</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="334">
+		<Resolution>medium</Resolution>
+		<Latitude>43.489941</Latitude>
+		<Longitude>-80.571480</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="335">
+		<Resolution>medium</Resolution>
+		<Latitude>43.657822</Latitude>
+		<Longitude>-79.613609</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="336">
+		<Resolution>medium</Resolution>
+		<Latitude>45.554989</Latitude>
+		<Longitude>-73.589233</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="337">
+		<Resolution>lowest</Resolution>
+		<Latitude>48.888940</Latitude>
+		<Longitude>2.241190</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="338">
+		<Resolution>medium</Resolution>
+		<Latitude>48.777222</Latitude>
+		<Longitude>9.180730</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="339">
+		<Resolution>medium</Resolution>
+		<Latitude>-33.957550</Latitude>
+		<Longitude>151.230850</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="340">
+		<Resolution>medium</Resolution>
+		<Latitude>50.953098</Latitude>
+		<Longitude>-0.153400</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="341">
+		<Resolution>best</Resolution>
+		<Latitude>43.185822</Latitude>
+		<Longitude>-76.225166</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="342">
+		<Resolution>best</Resolution>
+		<Latitude>39.635308</Latitude>
+		<Longitude>-86.152754</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="343">
+		<Resolution>best</Resolution>
+		<Latitude>46.989026</Latitude>
+		<Longitude>-120.548519</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="344">
+		<Resolution>best</Resolution>
+		<Latitude>47.959750</Latitude>
+		<Longitude>-122.210899</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="345">
+		<Resolution>best</Resolution>
+		<Latitude>30.001440</Latitude>
+		<Longitude>-95.269029</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="346">
+		<Resolution>medium</Resolution>
+		<Latitude>41.491733</Latitude>
+		<Longitude>-90.489899</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="347">
+		<Resolution>medium</Resolution>
+		<Latitude>38.351340</Latitude>
+		<Longitude>-121.993394</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="348">
+		<Resolution>medium</Resolution>
+		<Latitude>40.392720</Latitude>
+		<Longitude>-105.073899</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="349">
+		<Resolution>medium</Resolution>
+		<Latitude>37.338475</Latitude>
+		<Longitude>-121.885794</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="350">
+		<Resolution>best</Resolution>
+		<Latitude>36.309440</Latitude>
+		<Longitude>-86.672399</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="351">
+		<Resolution>medium</Resolution>
+		<Latitude>33.447745</Latitude>
+		<Longitude>-84.147729</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="352">
+		<Resolution>good</Resolution>
+		<Latitude>42.362629</Latitude>
+		<Longitude>-83.124512</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="353">
+		<Resolution>medium</Resolution>
+		<Latitude>49.899422</Latitude>
+		<Longitude>-97.140732</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="354">
+		<Resolution>medium</Resolution>
+		<Latitude>51.049320</Latitude>
+		<Longitude>-114.058884</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="355">
+		<Resolution>medium</Resolution>
+		<Latitude>48.862541</Latitude>
+		<Longitude>2.359320</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="356">
+		<Resolution>medium</Resolution>
+		<Latitude>53.549831</Latitude>
+		<Longitude>9.973300</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="357">
+		<Resolution>medium</Resolution>
+		<Latitude>-34.905479</Latitude>
+		<Longitude>138.532562</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="358">
+		<Resolution>medium</Resolution>
+		<Latitude>39.964531</Latitude>
+		<Longitude>-76.724289</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="359">
+		<Resolution>best</Resolution>
+		<Latitude>39.144581</Latitude>
+		<Longitude>-84.623449</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="360">
+		<Resolution>best</Resolution>
+		<Latitude>43.408000</Latitude>
+		<Longitude>-83.988929</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="361">
+		<Resolution>best</Resolution>
+		<Latitude>48.079460</Latitude>
+		<Longitude>-123.119920</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="362">
+		<Resolution>best</Resolution>
+		<Latitude>47.671750</Latitude>
+		<Longitude>-117.411149</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="363">
+		<Resolution>medium</Resolution>
+		<Latitude>37.029607</Latitude>
+		<Longitude>-92.200683</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="364">
+		<Resolution>best</Resolution>
+		<Latitude>38.769600</Latitude>
+		<Longitude>-90.280139</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="365">
+		<Resolution>medium</Resolution>
+		<Latitude>34.892965</Latitude>
+		<Longitude>-117.025827</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="366">
+		<Resolution>medium</Resolution>
+		<Latitude>34.001171</Latitude>
+		<Longitude>-118.154999</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="367">
+		<Resolution>good</Resolution>
+		<Latitude>32.870107</Latitude>
+		<Longitude>-117.225183</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="368">
+		<Resolution>medium</Resolution>
+		<Latitude>33.774025</Latitude>
+		<Longitude>-84.296589</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="369">
+		<Resolution>medium</Resolution>
+		<Latitude>39.000850</Latitude>
+		<Longitude>-84.630994</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="370">
+		<Resolution>medium</Resolution>
+		<Latitude>51.049320</Latitude>
+		<Longitude>-114.058884</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="371">
+		<Resolution>medium</Resolution>
+		<Latitude>49.196671</Latitude>
+		<Longitude>-122.843811</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="372">
+		<Resolution>best</Resolution>
+		<Latitude>40.679626</Latitude>
+		<Longitude>-73.941055</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="373">
+		<Resolution>medium</Resolution>
+		<Latitude>48.681610</Latitude>
+		<Longitude>2.169475</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="374">
+		<Resolution>medium</Resolution>
+		<Latitude>52.148521</Latitude>
+		<Longitude>10.324910</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="375">
+		<Resolution>medium</Resolution>
+		<Latitude>-27.479650</Latitude>
+		<Longitude>153.045975</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="376">
+		<Resolution>medium</Resolution>
+		<Latitude>42.511040</Latitude>
+		<Longitude>-73.194267</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="377">
+		<Resolution>best</Resolution>
+		<Latitude>43.481300</Latitude>
+		<Longitude>-84.091189</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="378">
+		<Resolution>best</Resolution>
+		<Latitude>39.302900</Latitude>
+		<Longitude>-84.465459</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="379">
+		<Resolution>best</Resolution>
+		<Latitude>45.528000</Latitude>
+		<Longitude>-122.639763</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="380">
+		<Resolution>best</Resolution>
+		<Latitude>41.160281</Latitude>
+		<Longitude>-104.778884</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="381">
+		<Resolution>best</Resolution>
+		<Latitude>38.509524</Latitude>
+		<Longitude>-90.332349</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="382">
+		<Resolution>best</Resolution>
+		<Latitude>29.520094</Latitude>
+		<Longitude>-98.502548</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="383">
+		<Resolution>medium</Resolution>
+		<Latitude>34.055282</Latitude>
+		<Longitude>-117.182580</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="384">
+		<Resolution>good</Resolution>
+		<Latitude>32.557644</Latitude>
+		<Longitude>-117.060435</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="385">
+		<Resolution>medium</Resolution>
+		<Latitude>37.004385</Latitude>
+		<Longitude>-121.571669</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="386">
+		<Resolution>best</Resolution>
+		<Latitude>33.608054</Latitude>
+		<Longitude>-78.975468</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="387">
+		<Resolution>medium</Resolution>
+		<Latitude>34.729121</Latitude>
+		<Longitude>-86.584961</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="388">
+		<Resolution>medium</Resolution>
+		<Latitude>49.311668</Latitude>
+		<Longitude>-123.075661</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="389">
+		<Resolution>medium</Resolution>
+		<Latitude>49.196671</Latitude>
+		<Longitude>-122.843811</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="390">
+		<Resolution>medium</Resolution>
+		<Latitude>43.489941</Latitude>
+		<Longitude>-80.571480</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="391">
+		<Resolution>medium</Resolution>
+		<Latitude>48.845390</Latitude>
+		<Longitude>2.351290</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="392">
+		<Resolution>medium</Resolution>
+		<Latitude>53.558338</Latitude>
+		<Longitude>9.996280</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="393">
+		<Resolution>medium</Resolution>
+		<Latitude>-33.847530</Latitude>
+		<Longitude>151.211563</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="394">
+		<Resolution>medium</Resolution>
+		<Latitude>39.964531</Latitude>
+		<Longitude>-76.724289</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="395">
+		<Resolution>best</Resolution>
+		<Latitude>43.618020</Latitude>
+		<Longitude>-84.247129</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="396">
+		<Resolution>medium</Resolution>
+		<Latitude>39.931230</Latitude>
+		<Longitude>-85.370929</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="397">
+		<Resolution>best</Resolution>
+		<Latitude>47.571040</Latitude>
+		<Longitude>-122.361239</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="398">
+		<Resolution>best</Resolution>
+		<Latitude>48.458320</Latitude>
+		<Longitude>-116.474439</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="399">
+		<Resolution>best</Resolution>
+		<Latitude>31.090340</Latitude>
+		<Longitude>-97.720159</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="400">
+		<Resolution>best</Resolution>
+		<Latitude>41.521880</Latitude>
+		<Longitude>-88.060079</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="401">
+		<Resolution>medium</Resolution>
+		<Latitude>36.171830</Latitude>
+		<Longitude>-115.139764</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="402">
+		<Resolution>medium</Resolution>
+		<Latitude>34.222915</Latitude>
+		<Longitude>-119.050699</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="403">
+		<Resolution>medium</Resolution>
+		<Latitude>33.667578</Latitude>
+		<Longitude>-117.327868</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="404">
+		<Resolution>medium</Resolution>
+		<Latitude>35.948335</Latitude>
+		<Longitude>-85.026479</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="405">
+		<Resolution>best</Resolution>
+		<Latitude>36.528118</Latitude>
+		<Longitude>-82.523087</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="406">
+		<Resolution>lowest</Resolution>
+		<Latitude>45.548173</Latitude>
+		<Longitude>-73.576668</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="407">
+		<Resolution>medium</Resolution>
+		<Latitude>45.553860</Latitude>
+		<Longitude>-73.585411</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="408">
+		<Resolution>good</Resolution>
+		<Latitude>49.303089</Latitude>
+		<Longitude>-123.031487</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="409">
+		<Resolution>medium</Resolution>
+		<Latitude>43.381268</Latitude>
+		<Longitude>0.502504</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="410">
+		<Resolution>medium</Resolution>
+		<Latitude>54.322681</Latitude>
+		<Longitude>10.135860</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="411">
+		<Resolution>medium</Resolution>
+		<Latitude>-33.838261</Latitude>
+		<Longitude>151.206482</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="412">
+		<Resolution>medium</Resolution>
+		<Latitude>52.442169</Latitude>
+		<Longitude>-1.940650</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="413">
+		<Resolution>medium</Resolution>
+		<Latitude>41.331089</Latitude>
+		<Longitude>-74.129983</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="414">
+		<Resolution>medium</Resolution>
+		<Latitude>40.113605</Latitude>
+		<Longitude>-85.560804</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="415">
+		<Resolution>best</Resolution>
+		<Latitude>47.657154</Latitude>
+		<Longitude>-117.348404</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="416">
+		<Resolution>good</Resolution>
+		<Latitude>46.562995</Latitude>
+		<Longitude>-120.474434</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="417">
+		<Resolution>best</Resolution>
+		<Latitude>29.492070</Latitude>
+		<Longitude>-98.401119</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="418">
+		<Resolution>best</Resolution>
+		<Latitude>42.697530</Latitude>
+		<Longitude>-87.854109</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="419">
+		<Resolution>good</Resolution>
+		<Latitude>33.880676</Latitude>
+		<Longitude>-118.072891</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="420">
+		<Resolution>good</Resolution>
+		<Latitude>34.158010</Latitude>
+		<Longitude>-118.448549</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="421">
+		<Resolution>medium</Resolution>
+		<Latitude>33.975420</Latitude>
+		<Longitude>-118.034424</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="422">
+		<Resolution>good</Resolution>
+		<Latitude>35.082651</Latitude>
+		<Longitude>-81.709260</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="423">
+		<Resolution>good</Resolution>
+		<Latitude>30.390370</Latitude>
+		<Longitude>-88.986094</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="424">
+		<Resolution>good</Resolution>
+		<Latitude>43.876556</Latitude>
+		<Longitude>-79.439575</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="425">
+		<Resolution>medium</Resolution>
+		<Latitude>43.724621</Latitude>
+		<Longitude>-79.550583</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="426">
+		<Resolution>medium</Resolution>
+		<Latitude>43.681080</Latitude>
+		<Longitude>-79.741783</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="427">
+		<Resolution>medium</Resolution>
+		<Latitude>48.875950</Latitude>
+		<Longitude>2.362430</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="428">
+		<Resolution>medium</Resolution>
+		<Latitude>52.371990</Latitude>
+		<Longitude>9.735730</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="429">
+		<Resolution>medium</Resolution>
+		<Latitude>-33.101379</Latitude>
+		<Longitude>151.561996</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="430">
+		<Resolution>medium</Resolution>
+		<Latitude>51.412800</Latitude>
+		<Longitude>-0.787800</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="431">
+		<Resolution>medium</Resolution>
+		<Latitude>42.773090</Latitude>
+		<Longitude>-86.101754</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="432">
+		<Resolution>good</Resolution>
+		<Latitude>39.776696</Latitude>
+		<Longitude>-85.949857</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="433">
+		<Resolution>medium</Resolution>
+		<Latitude>47.044465</Latitude>
+		<Longitude>-122.823189</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="434">
+		<Resolution>good</Resolution>
+		<Latitude>46.844485</Latitude>
+		<Longitude>-114.025389</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="435">
+		<Resolution>best</Resolution>
+		<Latitude>27.692100</Latitude>
+		<Longitude>-97.363419</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="436">
+		<Resolution>best</Resolution>
+		<Latitude>30.628940</Latitude>
+		<Longitude>-96.303159</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="437">
+		<Resolution>good</Resolution>
+		<Latitude>33.499416</Latitude>
+		<Longitude>-111.953493</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="438">
+		<Resolution>medium</Resolution>
+		<Latitude>36.171830</Latitude>
+		<Longitude>-115.139764</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="439">
+		<Resolution>medium</Resolution>
+		<Latitude>32.221553</Latitude>
+		<Longitude>-110.969754</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="440">
+		<Resolution>medium</Resolution>
+		<Latitude>28.537740</Latitude>
+		<Longitude>-81.377389</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="441">
+		<Resolution>good</Resolution>
+		<Latitude>37.055543</Latitude>
+		<Longitude>-84.628010</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="442">
+		<Resolution>medium</Resolution>
+		<Latitude>43.710751</Latitude>
+		<Longitude>-79.300941</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="443">
+		<Resolution>medium</Resolution>
+		<Latitude>43.910099</Latitude>
+		<Longitude>-79.437714</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="444">
+		<Resolution>medium</Resolution>
+		<Latitude>51.049320</Latitude>
+		<Longitude>-114.058884</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="445">
+		<Resolution>medium</Resolution>
+		<Latitude>48.900570</Latitude>
+		<Longitude>2.408660</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="446">
+		<Resolution>medium</Resolution>
+		<Latitude>52.523781</Latitude>
+		<Longitude>13.411900</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="447">
+		<Resolution>medium</Resolution>
+		<Latitude>-33.700642</Latitude>
+		<Longitude>150.558746</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="448">
+		<Resolution>medium</Resolution>
+		<Latitude>53.402969</Latitude>
+		<Longitude>-2.518540</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="449">
+		<Resolution>good</Resolution>
+		<Latitude>36.852925</Latitude>
+		<Longitude>-76.018424</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="450">
+		<Resolution>medium</Resolution>
+		<Latitude>42.465320</Latitude>
+		<Longitude>-71.009705</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="451">
+		<Resolution>good</Resolution>
+		<Latitude>42.326299</Latitude>
+		<Longitude>-122.856296</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="452">
+		<Resolution>good</Resolution>
+		<Latitude>44.627750</Latitude>
+		<Longitude>-123.076779</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="453">
+		<Resolution>medium</Resolution>
+		<Latitude>43.041810</Latitude>
+		<Longitude>-87.906844</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="454">
+		<Resolution>medium</Resolution>
+		<Latitude>43.046570</Latitude>
+		<Longitude>-102.347509</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="455">
+		<Resolution>good</Resolution>
+		<Latitude>32.814915</Latitude>
+		<Longitude>-116.767419</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="456">
+		<Resolution>good</Resolution>
+		<Latitude>33.715360</Latitude>
+		<Longitude>-117.760019</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="457">
+		<Resolution>medium</Resolution>
+		<Latitude>33.417045</Latitude>
+		<Longitude>-111.831459</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="458">
+		<Resolution>medium</Resolution>
+		<Latitude>30.392945</Latitude>
+		<Longitude>-86.495772</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="459">
+		<Resolution>good</Resolution>
+		<Latitude>33.042885</Latitude>
+		<Longitude>-85.014999</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="460">
+		<Resolution>medium</Resolution>
+		<Latitude>45.480919</Latitude>
+		<Longitude>-73.458557</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="461">
+		<Resolution>medium</Resolution>
+		<Latitude>43.580009</Latitude>
+		<Longitude>-79.640099</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="462">
+		<Resolution>medium</Resolution>
+		<Latitude>49.278999</Latitude>
+		<Longitude>-123.114853</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="463">
+		<Resolution>medium</Resolution>
+		<Latitude>48.681610</Latitude>
+		<Longitude>2.169475</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="464">
+		<Resolution>medium</Resolution>
+		<Latitude>49.233730</Latitude>
+		<Longitude>6.986540</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="465">
+		<Resolution>medium</Resolution>
+		<Latitude>-33.823250</Latitude>
+		<Longitude>151.195496</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="466">
+		<Resolution>medium</Resolution>
+		<Latitude>51.536518</Latitude>
+		<Longitude>-0.735140</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="467">
+		<Resolution>medium</Resolution>
+		<Latitude>38.885490</Latitude>
+		<Longitude>-77.173624</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="468">
+		<Resolution>medium</Resolution>
+		<Latitude>41.916065</Latitude>
+		<Longitude>-83.397899</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="469">
+		<Resolution>medium</Resolution>
+		<Latitude>46.662105</Latitude>
+		<Longitude>-122.964619</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="470">
+		<Resolution>best</Resolution>
+		<Latitude>46.216127</Latitude>
+		<Longitude>-119.225160</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="471">
+		<Resolution>best</Resolution>
+		<Latitude>29.360720</Latitude>
+		<Longitude>-98.571459</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="472">
+		<Resolution>medium</Resolution>
+		<Latitude>41.953505</Latitude>
+		<Longitude>-87.814579</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="473">
+		<Resolution>best</Resolution>
+		<Latitude>33.700720</Latitude>
+		<Longitude>-112.202209</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="474">
+		<Resolution>best</Resolution>
+		<Latitude>40.778980</Latitude>
+		<Longitude>-124.187599</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="475">
+		<Resolution>best</Resolution>
+		<Latitude>33.476590</Latitude>
+		<Longitude>-112.220699</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="476">
+		<Resolution>best</Resolution>
+		<Latitude>32.506302</Latitude>
+		<Longitude>-84.943138</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="477">
+		<Resolution>good</Resolution>
+		<Latitude>28.071807</Latitude>
+		<Longitude>-82.429306</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="478">
+		<Resolution>good</Resolution>
+		<Latitude>49.303089</Latitude>
+		<Longitude>-123.031487</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="479">
+		<Resolution>good</Resolution>
+		<Latitude>45.423374</Latitude>
+		<Longitude>-71.918610</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="480">
+		<Resolution>medium</Resolution>
+		<Latitude>43.580009</Latitude>
+		<Longitude>-79.640099</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="481">
+		<Resolution>medium</Resolution>
+		<Latitude>47.809820</Latitude>
+		<Longitude>1.081308</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="482">
+		<Resolution>medium</Resolution>
+		<Latitude>51.480389</Latitude>
+		<Longitude>12.709630</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="483">
+		<Resolution>medium</Resolution>
+		<Latitude>-33.830761</Latitude>
+		<Longitude>151.088104</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="484">
+		<Resolution>medium</Resolution>
+		<Latitude>51.482819</Latitude>
+		<Longitude>-0.610560</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="485">
+		<Resolution>medium</Resolution>
+		<Latitude>39.115670</Latitude>
+		<Longitude>-77.565299</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="486">
+		<Resolution>medium</Resolution>
+		<Latitude>42.206391</Latitude>
+		<Longitude>-71.004817</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="487">
+		<Resolution>best</Resolution>
+		<Latitude>44.941212</Latitude>
+		<Longitude>-122.983162</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="488">
+		<Resolution>medium</Resolution>
+		<Latitude>46.418657</Latitude>
+		<Longitude>-117.016660</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="489">
+		<Resolution>best</Resolution>
+		<Latitude>30.471849</Latitude>
+		<Longitude>-97.802177</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="490">
+		<Resolution>good</Resolution>
+		<Latitude>32.809080</Latitude>
+		<Longitude>-96.637829</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="491">
+		<Resolution>best</Resolution>
+		<Latitude>37.684980</Latitude>
+		<Longitude>-121.050769</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="492">
+		<Resolution>best</Resolution>
+		<Latitude>34.072179</Latitude>
+		<Longitude>-117.976674</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="493">
+		<Resolution>best</Resolution>
+		<Latitude>38.672397</Latitude>
+		<Longitude>-121.271694</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="494">
+		<Resolution>medium</Resolution>
+		<Latitude>25.728985</Latitude>
+		<Longitude>-80.237419</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="495">
+		<Resolution>medium</Resolution>
+		<Latitude>28.044190</Latitude>
+		<Longitude>-81.947864</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="496">
+		<Resolution>medium</Resolution>
+		<Latitude>53.546211</Latitude>
+		<Longitude>-113.490387</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="497">
+		<Resolution>medium</Resolution>
+		<Latitude>49.278999</Latitude>
+		<Longitude>-123.114853</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="498">
+		<Resolution>medium</Resolution>
+		<Latitude>43.580009</Latitude>
+		<Longitude>-79.640099</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="499">
+		<Resolution>medium</Resolution>
+		<Latitude>47.913940</Latitude>
+		<Longitude>1.909860</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="500">
+		<Resolution>medium</Resolution>
+		<Latitude>51.050850</Latitude>
+		<Longitude>13.733610</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="501">
+		<Resolution>medium</Resolution>
+		<Latitude>-33.965382</Latitude>
+		<Longitude>151.245972</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="502">
+		<Resolution>medium</Resolution>
+		<Latitude>51.506325</Latitude>
+		<Longitude>-0.127144</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="503">
+		<Resolution>medium</Resolution>
+		<Latitude>43.097045</Latitude>
+		<Longitude>-71.465184</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="504">
+		<Resolution>medium</Resolution>
+		<Latitude>42.398495</Latitude>
+		<Longitude>-83.295844</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="505">
+		<Resolution>good</Resolution>
+		<Latitude>46.142061</Latitude>
+		<Longitude>-122.900640</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="506">
+		<Resolution>medium</Resolution>
+		<Latitude>42.850095</Latitude>
+		<Longitude>-106.327734</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="507">
+		<Resolution>good</Resolution>
+		<Latitude>29.637249</Latitude>
+		<Longitude>-95.586592</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="508">
+		<Resolution>good</Resolution>
+		<Latitude>32.011110</Latitude>
+		<Longitude>-97.091199</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="509">
+		<Resolution>best</Resolution>
+		<Latitude>32.250324</Latitude>
+		<Longitude>-110.853444</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="510">
+		<Resolution>medium</Resolution>
+		<Latitude>37.829112</Latitude>
+		<Longitude>-122.165361</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="511">
+		<Resolution>best</Resolution>
+		<Latitude>37.562900</Latitude>
+		<Longitude>-122.281479</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="512">
+		<Resolution>medium</Resolution>
+		<Latitude>36.167762</Latitude>
+		<Longitude>-86.778366</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="513">
+		<Resolution>medium</Resolution>
+		<Latitude>39.087785</Latitude>
+		<Longitude>-84.489514</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="514">
+		<Resolution>medium</Resolution>
+		<Latitude>49.278999</Latitude>
+		<Longitude>-123.114853</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="515">
+		<Resolution>medium</Resolution>
+		<Latitude>43.693890</Latitude>
+		<Longitude>-79.314590</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="516">
+		<Resolution>medium</Resolution>
+		<Latitude>41.932152</Latitude>
+		<Longitude>-74.023216</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="517">
+		<Resolution>medium</Resolution>
+		<Latitude>48.681610</Latitude>
+		<Longitude>2.169475</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="518">
+		<Resolution>medium</Resolution>
+		<Latitude>52.523781</Latitude>
+		<Longitude>13.411900</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="519">
+		<Resolution>medium</Resolution>
+		<Latitude>-37.814560</Latitude>
+		<Longitude>144.970276</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="520">
+		<Resolution>medium</Resolution>
+		<Latitude>51.521870</Latitude>
+		<Longitude>-0.218840</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="521">
+		<Resolution>good</Resolution>
+		<Latitude>42.009524</Latitude>
+		<Longitude>-71.463261</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="522">
+		<Resolution>medium</Resolution>
+		<Latitude>42.903875</Latitude>
+		<Longitude>-78.743784</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="523">
+		<Resolution>best</Resolution>
+		<Latitude>40.138730</Latitude>
+		<Longitude>-105.130869</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="524">
+		<Resolution>medium</Resolution>
+		<Latitude>35.511515</Latitude>
+		<Longitude>-78.346714</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="525">
+		<Resolution>medium</Resolution>
+		<Latitude>32.653470</Latitude>
+		<Longitude>-83.759004</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="526">
+		<Resolution>medium</Resolution>
+		<Latitude>45.387396</Latitude>
+		<Longitude>-75.388478</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="527">
+		<Resolution>best</Resolution>
+		<Latitude>39.518597</Latitude>
+		<Longitude>-104.728187</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="528">
+		<Resolution>best</Resolution>
+		<Latitude>38.423674</Latitude>
+		<Longitude>-121.416403</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="529">
+		<Resolution>best</Resolution>
+		<Latitude>34.220510</Latitude>
+		<Longitude>-119.090819</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="530">
+		<Resolution>medium</Resolution>
+		<Latitude>28.537740</Latitude>
+		<Longitude>-81.377389</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="531">
+		<Resolution>medium</Resolution>
+		<Latitude>27.638850</Latitude>
+		<Longitude>-80.394224</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="532">
+		<Resolution>medium</Resolution>
+		<Latitude>45.297161</Latitude>
+		<Longitude>-75.879707</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="533">
+		<Resolution>medium</Resolution>
+		<Latitude>46.768250</Latitude>
+		<Longitude>-71.263741</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="534">
+		<Resolution>medium</Resolution>
+		<Latitude>43.580009</Latitude>
+		<Longitude>-79.640099</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="535">
+		<Resolution>medium</Resolution>
+		<Latitude>49.025452</Latitude>
+		<Longitude>2.063070</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="536">
+		<Resolution>medium</Resolution>
+		<Latitude>52.473461</Latitude>
+		<Longitude>13.309850</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="537">
+		<Resolution>medium</Resolution>
+		<Latitude>-33.830761</Latitude>
+		<Longitude>151.088104</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="538">
+		<Resolution>medium</Resolution>
+		<Latitude>51.587872</Latitude>
+		<Longitude>-0.042370</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="539">
+		<Resolution>medium</Resolution>
+		<Latitude>43.443758</Latitude>
+		<Longitude>-73.701943</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="540">
+		<Resolution>medium</Resolution>
+		<Latitude>40.989285</Latitude>
+		<Longitude>-81.994779</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="541">
+		<Resolution>medium</Resolution>
+		<Latitude>47.507145</Latitude>
+		<Longitude>-111.306074</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="542">
+		<Resolution>medium</Resolution>
+		<Latitude>47.678855</Latitude>
+		<Longitude>-122.207244</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="543">
+		<Resolution>medium</Resolution>
+		<Latitude>43.075888</Latitude>
+		<Longitude>-88.775009</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="544">
+		<Resolution>best</Resolution>
+		<Latitude>39.044689</Latitude>
+		<Longitude>-94.439041</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="545">
+		<Resolution>best</Resolution>
+		<Latitude>37.615510</Latitude>
+		<Longitude>-122.406479</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="546">
+		<Resolution>best</Resolution>
+		<Latitude>40.416766</Latitude>
+		<Longitude>-105.000617</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="547">
+		<Resolution>best</Resolution>
+		<Latitude>37.933260</Latitude>
+		<Longitude>-122.060719</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="548">
+		<Resolution>medium</Resolution>
+		<Latitude>32.237215</Latitude>
+		<Longitude>-80.861334</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="549">
+		<Resolution>medium</Resolution>
+		<Latitude>27.965605</Latitude>
+		<Longitude>-82.800569</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="550">
+		<Resolution>medium</Resolution>
+		<Latitude>46.806881</Latitude>
+		<Longitude>-71.218910</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="551">
+		<Resolution>medium</Resolution>
+		<Latitude>43.710751</Latitude>
+		<Longitude>-79.300941</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="552">
+		<Resolution>medium</Resolution>
+		<Latitude>43.710751</Latitude>
+		<Longitude>-79.300941</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="553">
+		<Resolution>medium</Resolution>
+		<Latitude>48.873241</Latitude>
+		<Longitude>2.311100</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="554">
+		<Resolution>medium</Resolution>
+		<Latitude>51.715248</Latitude>
+		<Longitude>8.752130</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="555">
+		<Resolution>medium</Resolution>
+		<Latitude>-33.876450</Latitude>
+		<Longitude>151.216309</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="556">
+		<Resolution>medium</Resolution>
+		<Latitude>51.506325</Latitude>
+		<Longitude>-0.127144</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="557">
+		<Resolution>medium</Resolution>
+		<Latitude>42.065500</Latitude>
+		<Longitude>-71.329514</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="558">
+		<Resolution>medium</Resolution>
+		<Latitude>43.442230</Latitude>
+		<Longitude>-71.588253</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="559">
+		<Resolution>good</Resolution>
+		<Latitude>41.159628</Latitude>
+		<Longitude>-104.801242</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="560">
+		<Resolution>good</Resolution>
+		<Latitude>41.584116</Latitude>
+		<Longitude>-109.256159</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="561">
+		<Resolution>best</Resolution>
+		<Latitude>29.596870</Latitude>
+		<Longitude>-95.623268</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="562">
+		<Resolution>medium</Resolution>
+		<Latitude>44.919876</Latitude>
+		<Longitude>-92.940617</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="563">
+		<Resolution>best</Resolution>
+		<Latitude>33.335700</Latitude>
+		<Longitude>-111.736109</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="564">
+		<Resolution>best</Resolution>
+		<Latitude>36.238670</Latitude>
+		<Longitude>-115.207619</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="565">
+		<Resolution>best</Resolution>
+		<Latitude>33.173500</Latitude>
+		<Longitude>-117.223719</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="566">
+		<Resolution>good</Resolution>
+		<Latitude>30.427703</Latitude>
+		<Longitude>-89.097719</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="567">
+		<Resolution>medium</Resolution>
+		<Latitude>35.788597</Latitude>
+		<Longitude>-83.555900</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="568">
+		<Resolution>medium</Resolution>
+		<Latitude>43.710751</Latitude>
+		<Longitude>-79.300941</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="569">
+		<Resolution>medium</Resolution>
+		<Latitude>45.269772</Latitude>
+		<Longitude>-75.754982</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="570">
+		<Resolution>medium</Resolution>
+		<Latitude>45.552959</Latitude>
+		<Longitude>-73.582451</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="571">
+		<Resolution>medium</Resolution>
+		<Latitude>50.729698</Latitude>
+		<Longitude>1.606210</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="572">
+		<Resolution>medium</Resolution>
+		<Latitude>52.264141</Latitude>
+		<Longitude>10.526380</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="573">
+		<Resolution>medium</Resolution>
+		<Latitude>-33.830761</Latitude>
+		<Longitude>151.088104</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="574">
+		<Resolution>medium</Resolution>
+		<Latitude>51.522869</Latitude>
+		<Longitude>-0.105820</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="575">
+		<Resolution>medium</Resolution>
+		<Latitude>39.106444</Latitude>
+		<Longitude>-84.504732</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="576">
+		<Resolution>medium</Resolution>
+		<Latitude>40.758525</Latitude>
+		<Longitude>-82.514804</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="577">
+		<Resolution>best</Resolution>
+		<Latitude>47.238316</Latitude>
+		<Longitude>-122.480264</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="578">
+		<Resolution>best</Resolution>
+		<Latitude>47.159656</Latitude>
+		<Longitude>-122.293406</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="579">
+		<Resolution>medium</Resolution>
+		<Latitude>45.512096</Latitude>
+		<Longitude>-92.965010</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="580">
+		<Resolution>medium</Resolution>
+		<Latitude>29.424490</Latitude>
+		<Longitude>-98.494624</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="581">
+		<Resolution>medium</Resolution>
+		<Latitude>35.241580</Latitude>
+		<Longitude>-106.660029</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="582">
+		<Resolution>medium</Resolution>
+		<Latitude>34.184160</Latitude>
+		<Longitude>-118.446517</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="583">
+		<Resolution>best</Resolution>
+		<Latitude>33.638620</Latitude>
+		<Longitude>-112.324809</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="584">
+		<Resolution>medium</Resolution>
+		<Latitude>32.080780</Latitude>
+		<Longitude>-81.090719</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="585">
+		<Resolution>good</Resolution>
+		<Latitude>35.073949</Latitude>
+		<Longitude>-89.910772</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="586">
+		<Resolution>medium</Resolution>
+		<Latitude>45.553860</Latitude>
+		<Longitude>-73.585411</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="587">
+		<Resolution>medium</Resolution>
+		<Latitude>45.421280</Latitude>
+		<Longitude>-75.427757</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="588">
+		<Resolution>medium</Resolution>
+		<Latitude>49.256161</Latitude>
+		<Longitude>-122.993050</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="589">
+		<Resolution>medium</Resolution>
+		<Latitude>48.877041</Latitude>
+		<Longitude>2.337870</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="590">
+		<Resolution>lowest</Resolution>
+		<Latitude>39.580140</Latitude>
+		<Longitude>-95.302229</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="591">
+		<Resolution>medium</Resolution>
+		<Latitude>-37.814560</Latitude>
+		<Longitude>144.970276</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="592">
+		<Resolution>medium</Resolution>
+		<Latitude>51.478970</Latitude>
+		<Longitude>-0.122930</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="593">
+		<Resolution>good</Resolution>
+		<Latitude>41.615506</Latitude>
+		<Longitude>-83.697411</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="594">
+		<Resolution>medium</Resolution>
+		<Latitude>42.758365</Latitude>
+		<Longitude>-71.464209</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="595">
+		<Resolution>medium</Resolution>
+		<Latitude>44.635480</Latitude>
+		<Longitude>-123.107714</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="596">
+		<Resolution>best</Resolution>
+		<Latitude>47.909918</Latitude>
+		<Longitude>-122.222652</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="597">
+		<Resolution>medium</Resolution>
+		<Latitude>29.760450</Latitude>
+		<Longitude>-95.369784</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="598">
+		<Resolution>medium</Resolution>
+		<Latitude>36.641560</Latitude>
+		<Longitude>-93.217894</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="599">
+		<Resolution>best</Resolution>
+		<Latitude>36.621440</Latitude>
+		<Longitude>-121.841979</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="600">
+		<Resolution>best</Resolution>
+		<Latitude>33.893870</Latitude>
+		<Longitude>-118.046519</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="601">
+		<Resolution>best</Resolution>
+		<Latitude>40.599020</Latitude>
+		<Longitude>-111.890839</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="602">
+		<Resolution>best</Resolution>
+		<Latitude>35.740959</Latitude>
+		<Longitude>-83.996712</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="603">
+		<Resolution>good</Resolution>
+		<Latitude>25.690408</Latitude>
+		<Longitude>-80.307911</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="604">
+		<Resolution>best</Resolution>
+		<Latitude>45.432570</Latitude>
+		<Longitude>-122.579239</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="605">
+		<Resolution>medium</Resolution>
+		<Latitude>47.657260</Latitude>
+		<Longitude>-117.412279</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="606">
+		<Resolution>good</Resolution>
+		<Latitude>44.857122</Latitude>
+		<Longitude>-89.620789</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="607">
+		<Resolution>good</Resolution>
+		<Latitude>29.359060</Latitude>
+		<Longitude>-94.967159</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="608">
+		<Resolution>best</Resolution>
+		<Latitude>32.779810</Latitude>
+		<Longitude>-117.009753</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="609">
+		<Resolution>best</Resolution>
+		<Latitude>38.963160</Latitude>
+		<Longitude>-121.135229</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="610">
+		<Resolution>medium</Resolution>
+		<Latitude>33.494010</Latitude>
+		<Longitude>-111.921409</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="611">
+		<Resolution>medium</Resolution>
+		<Latitude>27.495500</Latitude>
+		<Longitude>-82.578074</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="612">
+		<Resolution>best</Resolution>
+		<Latitude>26.011750</Latitude>
+		<Longitude>-80.135069</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="613">
+		<Resolution>medium</Resolution>
+		<Latitude>49.262581</Latitude>
+		<Longitude>-123.102798</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="614">
+		<Resolution>medium</Resolution>
+		<Latitude>48.887321</Latitude>
+		<Longitude>2.304710</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="615">
+		<Resolution>medium</Resolution>
+		<Latitude>51.339760</Latitude>
+		<Longitude>12.371360</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="616">
+		<Resolution>medium</Resolution>
+		<Latitude>-33.957550</Latitude>
+		<Longitude>151.230850</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="617">
+		<Resolution>good</Resolution>
+		<Latitude>51.674488</Latitude>
+		<Longitude>-1.278369</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="618">
+		<Resolution>medium</Resolution>
+		<Latitude>42.837395</Latitude>
+		<Longitude>-71.095334</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="619">
+		<Resolution>best</Resolution>
+		<Latitude>42.483791</Latitude>
+		<Longitude>-76.487633</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="620">
+		<Resolution>best</Resolution>
+		<Latitude>41.159640</Latitude>
+		<Longitude>-104.716879</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="621">
+		<Resolution>medium</Resolution>
+		<Latitude>48.752350</Latitude>
+		<Longitude>-122.471219</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="622">
+		<Resolution>medium</Resolution>
+		<Latitude>39.806245</Latitude>
+		<Longitude>-88.286854</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="623">
+		<Resolution>good</Resolution>
+		<Latitude>45.050640</Latitude>
+		<Longitude>-93.391989</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="624">
+		<Resolution>best</Resolution>
+		<Latitude>33.714453</Latitude>
+		<Longitude>-111.886339</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="625">
+		<Resolution>best</Resolution>
+		<Latitude>33.291530</Latitude>
+		<Longitude>-111.859059</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="626">
+		<Resolution>best</Resolution>
+		<Latitude>36.114460</Latitude>
+		<Longitude>-115.159159</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="627">
+		<Resolution>best</Resolution>
+		<Latitude>35.849360</Latitude>
+		<Longitude>-78.586449</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="628">
+		<Resolution>medium</Resolution>
+		<Latitude>25.728985</Latitude>
+		<Longitude>-80.237419</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="629">
+		<Resolution>medium</Resolution>
+		<Latitude>51.049320</Latitude>
+		<Longitude>-114.058884</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="630">
+		<Resolution>medium</Resolution>
+		<Latitude>43.710579</Latitude>
+		<Longitude>-79.300873</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="631">
+		<Resolution>medium</Resolution>
+		<Latitude>43.710579</Latitude>
+		<Longitude>-79.300873</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="632">
+		<Resolution>medium</Resolution>
+		<Latitude>48.702110</Latitude>
+		<Longitude>2.336090</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="633">
+		<Resolution>medium</Resolution>
+		<Latitude>48.364620</Latitude>
+		<Longitude>10.891680</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="634">
+		<Resolution>medium</Resolution>
+		<Latitude>-33.830761</Latitude>
+		<Longitude>151.088104</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="635">
+		<Resolution>medium</Resolution>
+		<Latitude>52.227100</Latitude>
+		<Longitude>0.133870</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="636">
+		<Resolution>best</Resolution>
+		<Latitude>40.757210</Latitude>
+		<Longitude>-86.313713</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="637">
+		<Resolution>medium</Resolution>
+		<Latitude>43.710579</Latitude>
+		<Longitude>-79.300873</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="638">
+		<Resolution>medium</Resolution>
+		<Latitude>48.835030</Latitude>
+		<Longitude>2.444650</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="639">
+		<Resolution>medium</Resolution>
+		<Latitude>49.680463</Latitude>
+		<Longitude>10.526249</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="640">
+		<Resolution>medium</Resolution>
+		<Latitude>-31.924700</Latitude>
+		<Longitude>115.854103</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="641">
+		<Resolution>medium</Resolution>
+		<Latitude>51.477551</Latitude>
+		<Longitude>-0.146610</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="642">
+		<Resolution>medium</Resolution>
+		<Latitude>43.086874</Latitude>
+		<Longitude>-70.749885</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="643">
+		<Resolution>medium</Resolution>
+		<Latitude>42.975830</Latitude>
+		<Longitude>-82.428449</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="644">
+		<Resolution>best</Resolution>
+		<Latitude>44.070740</Latitude>
+		<Longitude>-123.042009</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="645">
+		<Resolution>medium</Resolution>
+		<Latitude>45.484895</Latitude>
+		<Longitude>-122.796153</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="646">
+		<Resolution>medium</Resolution>
+		<Latitude>38.627610</Latitude>
+		<Longitude>-90.198954</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="647">
+		<Resolution>good</Resolution>
+		<Latitude>32.759084</Latitude>
+		<Longitude>-97.100301</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="648">
+		<Resolution>medium</Resolution>
+		<Latitude>33.919925</Latitude>
+		<Longitude>-118.415964</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="649">
+		<Resolution>medium</Resolution>
+		<Latitude>33.748136</Latitude>
+		<Longitude>-117.874491</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="650">
+		<Resolution>best</Resolution>
+		<Latitude>39.469580</Latitude>
+		<Longitude>-119.780329</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="651">
+		<Resolution>best</Resolution>
+		<Latitude>33.492550</Latitude>
+		<Longitude>-82.078119</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="652">
+		<Resolution>best</Resolution>
+		<Latitude>33.947420</Latitude>
+		<Longitude>-84.632449</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="653">
+		<Resolution>medium</Resolution>
+		<Latitude>43.710579</Latitude>
+		<Longitude>-79.300873</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="654">
+		<Resolution>medium</Resolution>
+		<Latitude>44.002441</Latitude>
+		<Longitude>-79.444717</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="655">
+		<Resolution>medium</Resolution>
+		<Latitude>45.462238</Latitude>
+		<Longitude>-73.726387</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="656">
+		<Resolution>medium</Resolution>
+		<Latitude>48.854839</Latitude>
+		<Longitude>2.311580</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="657">
+		<Resolution>medium</Resolution>
+		<Latitude>48.136416</Latitude>
+		<Longitude>11.577526</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="658">
+		<Resolution>medium</Resolution>
+		<Latitude>-33.897572</Latitude>
+		<Longitude>151.195572</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="659">
+		<Resolution>medium</Resolution>
+		<Latitude>51.420471</Latitude>
+		<Longitude>-0.206650</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="660">
+		<Resolution>medium</Resolution>
+		<Latitude>42.605440</Latitude>
+		<Longitude>-83.924909</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="661">
+		<Resolution>medium</Resolution>
+		<Latitude>51.049320</Latitude>
+		<Longitude>-114.058884</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="662">
+		<Resolution>medium</Resolution>
+		<Latitude>50.675381</Latitude>
+		<Longitude>3.155020</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="663">
+		<Resolution>medium</Resolution>
+		<Latitude>48.362301</Latitude>
+		<Longitude>10.900180</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="664">
+		<Resolution>medium</Resolution>
+		<Latitude>-37.814560</Latitude>
+		<Longitude>144.970276</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="665">
+		<Resolution>medium</Resolution>
+		<Latitude>51.506325</Latitude>
+		<Longitude>-0.127144</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="666">
+		<Resolution>good</Resolution>
+		<Latitude>40.025809</Latitude>
+		<Longitude>-82.912290</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="667">
+		<Resolution>best</Resolution>
+		<Latitude>40.662910</Latitude>
+		<Longitude>-73.722542</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="668">
+		<Resolution>best</Resolution>
+		<Latitude>46.137660</Latitude>
+		<Longitude>-122.902519</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="669">
+		<Resolution>best</Resolution>
+		<Latitude>47.320590</Latitude>
+		<Longitude>-122.326679</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="670">
+		<Resolution>medium</Resolution>
+		<Latitude>39.000175</Latitude>
+		<Longitude>-93.953584</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="671">
+		<Resolution>medium</Resolution>
+		<Latitude>29.424490</Latitude>
+		<Longitude>-98.494624</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="672">
+		<Resolution>best</Resolution>
+		<Latitude>41.178793</Latitude>
+		<Longitude>-111.949369</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="673">
+		<Resolution>best</Resolution>
+		<Latitude>40.884448</Latitude>
+		<Longitude>-111.864445</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="674">
+		<Resolution>best</Resolution>
+		<Latitude>37.658131</Latitude>
+		<Longitude>-122.466460</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="675">
+		<Resolution>best</Resolution>
+		<Latitude>25.934650</Latitude>
+		<Longitude>-80.150829</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="676">
+		<Resolution>best</Resolution>
+		<Latitude>33.818220</Latitude>
+		<Longitude>-84.617939</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="677">
+		<Resolution>medium</Resolution>
+		<Latitude>45.421280</Latitude>
+		<Longitude>-75.427757</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="678">
+		<Resolution>medium</Resolution>
+		<Latitude>43.710579</Latitude>
+		<Longitude>-79.300873</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="679">
+		<Resolution>medium</Resolution>
+		<Latitude>45.552319</Latitude>
+		<Longitude>-73.580429</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="680">
+		<Resolution>lowest</Resolution>
+		<Latitude>35.271978</Latitude>
+		<Longitude>-116.697438</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="681">
+		<Resolution>medium</Resolution>
+		<Latitude>49.300831</Latitude>
+		<Longitude>7.066020</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="682">
+		<Resolution>medium</Resolution>
+		<Latitude>-32.930859</Latitude>
+		<Longitude>151.780136</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="683">
+		<Resolution>medium</Resolution>
+		<Latitude>51.506325</Latitude>
+		<Longitude>-0.127144</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="684">
+		<Resolution>medium</Resolution>
+		<Latitude>41.225019</Latitude>
+		<Longitude>-73.057314</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="685">
+		<Resolution>medium</Resolution>
+		<Latitude>45.554989</Latitude>
+		<Longitude>-73.589233</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="686">
+		<Resolution>medium</Resolution>
+		<Latitude>48.871010</Latitude>
+		<Longitude>2.218280</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="687">
+		<Resolution>medium</Resolution>
+		<Latitude>48.139099</Latitude>
+		<Longitude>11.580270</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="688">
+		<Resolution>medium</Resolution>
+		<Latitude>-33.867142</Latitude>
+		<Longitude>151.207108</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="689">
+		<Resolution>medium</Resolution>
+		<Latitude>51.493309</Latitude>
+		<Longitude>-0.137150</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="690">
+		<Resolution>best</Resolution>
+		<Latitude>40.030441</Latitude>
+		<Longitude>-82.443520</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="691">
+		<Resolution>good</Resolution>
+		<Latitude>41.334745</Latitude>
+		<Longitude>-72.976924</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="692">
+		<Resolution>best</Resolution>
+		<Latitude>45.456500</Latitude>
+		<Longitude>-122.781699</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="693">
+		<Resolution>best</Resolution>
+		<Latitude>45.506760</Latitude>
+		<Longitude>-122.961109</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="694">
+		<Resolution>medium</Resolution>
+		<Latitude>44.173715</Latitude>
+		<Longitude>-93.245759</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="695">
+		<Resolution>good</Resolution>
+		<Latitude>38.984530</Latitude>
+		<Longitude>-94.603874</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="696">
+		<Resolution>best</Resolution>
+		<Latitude>40.539130</Latitude>
+		<Longitude>-111.938679</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="697">
+		<Resolution>best</Resolution>
+		<Latitude>40.565610</Latitude>
+		<Longitude>-112.295979</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="698">
+		<Resolution>best</Resolution>
+		<Latitude>37.666490</Latitude>
+		<Longitude>-113.063732</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="699">
+		<Resolution>best</Resolution>
+		<Latitude>35.449980</Latitude>
+		<Longitude>-80.600569</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="700">
+		<Resolution>best</Resolution>
+		<Latitude>35.296720</Latitude>
+		<Longitude>-80.740745</Longitude>
+	</CustomerCoordinates>
+	<CustomerCoordinates CustomerID="701">
+		<Resolution>medium</Resolution>
+		<Latitude>51.049320</Latitude>
+		<Longitude>-114.058884</Longitude>
+	</CustomerCoordinates>
+</ROOT>

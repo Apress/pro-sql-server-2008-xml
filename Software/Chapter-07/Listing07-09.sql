@@ -1,0 +1,5 @@
+USE AdventureWorks;
+GO
+
+CREATE FULLTEXT CATALOG FTC_Instructions_XML;
+GO

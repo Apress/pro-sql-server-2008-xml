@@ -1,0 +1,5 @@
+USE master;
+GO
+ALTER DATABASE AdventureWorks
+SET TRUSTWORTHY ON;
+GO

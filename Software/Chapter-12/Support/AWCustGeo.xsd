@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            xmlns:sql="urn:schemas-microsoft-com:mapping-schema">
+
+  <xsd:element name="CustomerCoordinates" 
+      sql:relation="Sales.CustomerGeography">
+
+      <xsd:complexType>
+
+          <xsd:sequence>
+
+              <xsd:element name="Resolution"  
+                     sql:field="Resolution"  
+                     type="xsd:string" />
+
+              <xsd:element name="Latitude"  
+                     sql:field="Latitude"  
+                     type="xsd:decimal" />
+
+              <xsd:element name="Longitude"  
+                     sql:field="Longitude"  
+                     type="xsd:decimal" />
+
+          </xsd:sequence>
+
+          <xsd:attribute name="CustomerID"
+                     sql:field="CustomerID" 
+                     type="xsd:integer" />
+
+      </xsd:complexType>
+
+    </xsd:element>
+
+</xsd:schema>

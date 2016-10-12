@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:sql="urn:schemas-microsoft-com:mapping-schema"
+  elementFormDefault="qualified"
+  attributeFormDefault="unqualified">
+  
+  <xs:element name="Contact" sql:relation="Person.Contact">
+  <xs:complexType>
+    <xs:attribute name="id" type="xs:integer" use="required" sql:field="ContactID" sql:identity="useValue" />
+    <xs:attribute name="last-name" type="xs:string" use="required" sql:field="LastName"/>
+    <xs:attribute name="first-name" type="xs:string" use="required" sql:field="FirstName"/>
+    <xs:attribute name="email" type="xs:string" use="optional" sql:field="EmailAddress"/>
+    <xs:attribute name="phone" type="xs:string" use="optional" sql:field="Phone"/>
+    <xs:attribute name="promotion" type="xs:integer" use="optional" sql:field="EmailPromotion"/>
+    <xs:attribute name="name-style" type="xs:integer" use="optional" sql:field="NameStyle"/>
+    <xs:attribute name="password-hash" type="xs:string" use="optional" sql:field="PasswordHash"/>
+    <xs:attribute name="password-salt" type="xs:string" use="optional" sql:field="PasswordSalt"/>
+  </xs:complexType>
+  </xs:element>
+</xs:schema>

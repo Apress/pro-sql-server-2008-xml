@@ -1,0 +1,2 @@
+C:\Documents and Settings\Michael.HELL\Desktop\xml\XML Book\Software\Chapter-10\AsyncExcuteXmlReader-Example\VS2008\AsyncExcuteXmlReader-Example\obj\Debug\AsyncExcuteXmlReader-Example.exe
+C:\Documents and Settings\Michael.HELL\Desktop\xml\XML Book\Software\Chapter-10\AsyncExcuteXmlReader-Example\VS2008\AsyncExcuteXmlReader-Example\obj\Debug\AsyncExcuteXmlReader-Example.pdb

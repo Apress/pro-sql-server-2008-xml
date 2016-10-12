@@ -1,0 +1,19 @@
+<?xml version = "1.0"?> 
+<ROOT xmlns:sql = "urn:schemas-microsoft-com:xml-sql" 
+  xmlns:updg = "urn:schemas-microsoft-com:xml-updategram">
+  <updg:sync mapping-schema = "c:\contactupdg.xsd">
+    <updg:before> 
+    </updg:before> 
+    <updg:after> 
+      <Contact id = "20000"
+        last-name = "Braff" 
+        first-name = "Zach"
+        email = "zbraff@adventure-works.com" 
+        phone = "942-555-2439"  
+        promotion = "0" 
+        name-style = "0" 
+        password-hash = "ZEgQH9qZIPiLgyBHYw/dD1FJQNpdQyIAa+BFfKX5/jg=" 
+        password-salt = "7iy/umc=" /> 
+    </updg:after> 
+  </updg:sync>
+</ROOT>

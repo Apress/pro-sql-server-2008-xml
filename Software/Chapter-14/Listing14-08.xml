@@ -1,0 +1,36 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<DTAXML xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" 
+  xmlns = "http://schemas.microsoft.com/sqlserver/2004/07/dta">
+  <DTAInput>
+    <Server>
+      <Name>(local)</Name>
+      <Database>
+        <Name>AdventureWorks</Name>
+        <Schema>
+          <Name>Sales</Name>
+          <Table>
+            <Name>SalesOrderHeader</Name>
+          </Table>
+        </Schema>
+      </Database>
+    </Server>
+    <Workload>
+      <EventString Weight = "100.01">
+        SELECT SalesOrderID, SubTotal
+        FROM Sales.SalesOrderHeader
+        WHERE SubTotal &gt; 100.00
+		AND SubTotal &lt; 1000.00
+        ORDER BY SubTotal;
+      </EventString>
+    </Workload>
+    <TuningOptions>
+      <TuningTimeInMin>120</TuningTimeInMin>
+      <StorageBoundInMB>1500</StorageBoundInMB>
+      <FeatureSet>IDX</FeatureSet>
+      <Partitioning>NONE</Partitioning>
+      <KeepExisting>NONE</KeepExisting>
+      <OnlineIndexOperation>OFF</OnlineIndexOperation>
+      <DatabaseToConnect>AdventureWorks</DatabaseToConnect>
+    </TuningOptions>
+  </DTAInput>
+</DTAXML>

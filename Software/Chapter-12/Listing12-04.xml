@@ -1,0 +1,14 @@
+<?xml version = "1.0"?>  
+<ROOT xmlns:sql = "urn:schemas-microsoft-com:xml-sql"  
+  xmlns:updg = "urn:schemas-microsoft-com:xml-updategram">  
+  <updg:sync mapping-schema = "c:\contactupdg.xsd">  
+    <updg:before>  
+      <Contact id = "20000" />  
+    </updg:before>  
+    <updg:after> 
+      <Contact id = "20000" 
+        last-name = "Braff" 
+        first-name = "Zachary" /> 
+    </updg:after>  
+  </updg:sync>  
+</ROOT>

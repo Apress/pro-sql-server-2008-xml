@@ -1,0 +1,11 @@
+<sales-order-header>
+  <row id = "71805">
+    <order-date>2004-06-01T00:00:00</order-date>
+    <account-number>10-4020-000573</account-number>
+    <total-due amount = "76535.5524" />
+    <contact>
+      <first-name>Pilar</first-name>
+      <last-name>Ackerman</last-name>
+    </contact>
+  </row>
+</sales-order-header>

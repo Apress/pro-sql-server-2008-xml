@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLXML-Example", "SQLXML-Example\SQLXML-Example.csproj", "{B231BC69-63FF-4F6A-92B4-23FA169592E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B231BC69-63FF-4F6A-92B4-23FA169592E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B231BC69-63FF-4F6A-92B4-23FA169592E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B231BC69-63FF-4F6A-92B4-23FA169592E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B231BC69-63FF-4F6A-92B4-23FA169592E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

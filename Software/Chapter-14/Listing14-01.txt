@@ -1,0 +1,1 @@
+bcp AdventureWorks.Sales.CustomerGeography format nul -x -f c:\AWCustGeo.fmt -S "(local)" -T -c

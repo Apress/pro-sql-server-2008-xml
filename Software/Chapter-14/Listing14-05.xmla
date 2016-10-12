@@ -1,0 +1,63 @@
+<Create xmlns = "http://schemas.microsoft.com/analysisservices/2003/engine">
+    <ParentObject>
+        <DatabaseID>AdventureWorksAS</DatabaseID>
+    </ParentObject>
+    <ObjectDefinition>
+        <Dimension xmlns:xsd = "http://www.w3.org/2001/XMLSchema" 
+          xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+          xmlns:ddl2 = "http://schemas.microsoft.com/analysisservices/2003/~CCC
+            engine/2"
+          xmlns:ddl2_2 = "http://schemas.microsoft.com/analysisservices/2003/~CCC
+            engine/2/2" 
+          xmlns:ddl100_100 = "http://schemas.microsoft.com/~CCC
+            analysisservices/2008/engine/100/100">
+            <ID>Dim Scenario</ID>
+            <Name>Dim Scenario</Name>
+            <Source xsi:type = "DataSourceViewBinding">
+                <DataSourceViewID>Adventure Works DW</DataSourceViewID>
+            </Source>
+            <UnknownMember>Visible</UnknownMember>
+            <ErrorConfiguration>
+                <KeyNotFound>ReportAndStop</KeyNotFound>
+                <KeyDuplicate>ReportAndStop</KeyDuplicate>
+                <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
+            </ErrorConfiguration>
+            <Language>1033</Language>
+            <Collation>Latin1_General_CI_AS</Collation>
+            <UnknownMemberName>Unknown</UnknownMemberName>
+            <Attributes>
+                <Attribute>
+                    <ID>Scenario Key</ID>
+                    <Name>Scenario Key</Name>
+                    <Usage>Key</Usage>
+                    <KeyColumns>
+                        <KeyColumn>
+                           <NullProcessing>UnknownMember</NullProcessing>
+                            <DataType>Integer</DataType>
+                            <Source xsi:type = "ColumnBinding">
+                                <TableID>dbo_DimScenario</TableID>
+                                <ColumnID>ScenarioKey</ColumnID>
+                            </Source>
+                        </KeyColumn>
+                    </KeyColumns>
+                    <NameColumn>
+                        <NullProcessing>ZeroOrBlank</NullProcessing>
+                        <DataType>WChar</DataType>
+                        <Source xsi:type = "ColumnBinding">
+                            <TableID>dbo_DimScenario</TableID>
+                            <ColumnID>ScenarioKey</ColumnID>
+                        </Source>
+                    </NameColumn>
+                    <OrderBy>Key</OrderBy>
+                </Attribute>
+            </Attributes>
+            <ProactiveCaching>
+                <SilenceInterval>-PT1S</SilenceInterval>
+                <Latency>-PT1S</Latency>
+                <SilenceOverrideInterval>-PT1S</SilenceOverrideInterval>
+                <ForceRebuildInterval>-PT1S</ForceRebuildInterval>
+                <Source xsi:type = "ProactiveCachingInheritedBinding" />
+            </ProactiveCaching>
+        </Dimension>
+    </ObjectDefinition>
+</Create>

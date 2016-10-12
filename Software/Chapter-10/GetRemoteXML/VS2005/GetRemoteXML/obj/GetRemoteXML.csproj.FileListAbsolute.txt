@@ -1,0 +1,5 @@
+C:\Documents and Settings\All Users\Documents\GetRemoteXML\GetRemoteXML\bin\Debug\GetRemoteXML.dll
+C:\Documents and Settings\All Users\Documents\GetRemoteXML\GetRemoteXML\bin\Debug\GetRemoteXML.pdb
+C:\Documents and Settings\All Users\Documents\GetRemoteXML\GetRemoteXML\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documents\GetRemoteXML\GetRemoteXML\obj\Debug\GetRemoteXML.dll
+C:\Documents and Settings\All Users\Documents\GetRemoteXML\GetRemoteXML\obj\Debug\GetRemoteXML.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq-Rss-Xml-Example", "Linq-Rss-Xml-Example\Linq-Rss-Xml-Example.csproj", "{831CD3F4-F8E5-4E35-8C48-4AA2EE49F14E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{831CD3F4-F8E5-4E35-8C48-4AA2EE49F14E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831CD3F4-F8E5-4E35-8C48-4AA2EE49F14E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831CD3F4-F8E5-4E35-8C48-4AA2EE49F14E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831CD3F4-F8E5-4E35-8C48-4AA2EE49F14E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
